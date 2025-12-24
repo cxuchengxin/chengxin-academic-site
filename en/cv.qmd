@@ -1,7 +1,0 @@
----
-title: "CV"
----
-
-- [Download CV (PDF)](../assets/cv/chengxin_cv.pdf)
-
-(Placeholder) Web CV sections

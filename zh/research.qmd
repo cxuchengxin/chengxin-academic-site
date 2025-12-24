@@ -4,23 +4,66 @@ title: "研究 Research"
 
 [English](../research.qmd) | **中文**
 
-## 行政负担与公共服务获取 {#area-admin-burden}
-**问题**（占位）为何“有资格却领不到”？  
-**方法**（占位）行政数据 + 实验/准实验 + 访谈/文本分析。  
-**贡献**（占位）提出可操作的流程改进并评估公平影响。  
-**关键词**：administrative burden; take-up; equity
+## 论文与工作论文 Publications & Working Papers
 
----
+::: {.panel-tabset}
 
-## 政府资助与非营利组织治理 {#area-grantmaking}
-（占位）RFP 与拨款流程如何影响合规成本、能力建设与服务质量？
+## All
 
----
+### Publications（论文）
+1. **Xu, C.; Coauthor, A.** (2025). **论文题目（占位）**. *期刊（占位）*.  
+   - DOI: https://doi.org/10.0000/placeholder.2025.001  
+   -（分类：Government Decision Making）
 
-## 政府 AI 应用与治理 {#area-ai}
-（占位）AI 治理、问责与审计框架。
+2. **Xu, C.; Coauthor, B.** (2024). **论文题目（占位）**. *期刊/会议（占位）*.  
+   - Link: https://example.com/paper-page  
+   -（分类：Nonprofit Management）
 
----
+3. **Xu, C.; Coauthor, C.** (2023). **论文题目（占位）**. *期刊（占位）*.  
+   - Link: https://example.com  
+   -（分类：Method）
 
-## （可选）Working Papers / In Progress {#area-other}
-（占位）
+### Working Papers（工作论文）
+1. **Xu, C.; Coauthor, A.** (2025). **工作论文题目（占位）**.（工作论文）  
+   - Link（可选）: https://example.com  
+   -（分类：Government Decision Making）
+
+2. **Xu, C.; Coauthor, B.** (2024). **工作论文题目（占位）**.（工作论文）  
+   - Link（可选）: https://example.com  
+   -（分类：Nonprofit Management）
+
+3. **Xu, C.; Coauthor, C.** (2023). **工作论文题目（占位）**.（工作论文）  
+   - Link（可选）: https://example.com  
+   -（分类：Method）
+
+## Government Decision Making
+
+### Publications（论文）
+1. **Xu, C.; Coauthor, A.** (2025). **论文题目（占位）**. *期刊（占位）*.  
+   - DOI: https://doi.org/10.0000/placeholder.2025.001
+
+### Working Papers（工作论文）
+1. **Xu, C.; Coauthor, A.** (2025). **工作论文题目（占位）**.（工作论文）  
+   - Link（可选）: https://example.com
+
+## Nonprofit Management
+
+### Publications（论文）
+1. **Xu, C.; Coauthor, A.** (2025). **论文题目（占位）**. *期刊（占位）*.  
+   - DOI: https://doi.org/10.0000/placeholder.2025.001
+
+### Working Papers（工作论文）
+1. **Xu, C.; Coauthor, A.** (2025). **工作论文题目（占位）**.（工作论文）  
+   - Link（可选）: https://example.com
+
+## Method
+
+### Publications（论文）
+1. **Xu, C.; Coauthor, A.** (2025). **论文题目（占位）**. *期刊（占位）*.  
+   - DOI: https://doi.org/10.0000/placeholder.2025.001
+
+### Working Papers（工作论文）
+1. **Xu, C.; Coauthor, A.** (2025). **工作论文题目（占位）**.（工作论文）  
+   - Link（可选）: https://example.com
+
+:::

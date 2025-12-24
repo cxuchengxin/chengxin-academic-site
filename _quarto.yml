@@ -5,7 +5,7 @@ project:
 website:
   title: "Chengxin Xu"
 
-  # ✅ 关闭右上角站内搜索（移除放大镜/搜索框区域）
+  # ✅ 已关闭搜索（你之前已解决隐形搜索问题）
   search: false
 
   navbar:
@@ -16,8 +16,6 @@ website:
         href: research.qmd
       - text: "Teaching"
         href: teaching.qmd
-      - text: "Publications"
-        href: publications.qmd
       - text: "CV"
         href: cv.qmd
       - text: "Contact"

@@ -2,6 +2,8 @@
 title: "简历 CV"
 ---
 
+[English](../cv.qmd) | **中文**
+
 - [下载简历 PDF](../assets/cv/chengxin_cv.pdf)
 
 ## Web 版简历（占位）

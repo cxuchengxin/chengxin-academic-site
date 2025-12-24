@@ -2,23 +2,66 @@
 title: "Research"
 ---
 
-## Administrative Burden & Service Access {#area-admin-burden}
-**Problem (placeholder):** Why do eligible people fail to take up benefits and services?  
-**Methods (placeholder):** administrative data + experiments/quasi-experiments + interviews/text analysis.  
-**Contribution (placeholder):** actionable process redesign and equity evaluation.  
-**Keywords:** administrative burden; take-up; equity
+## Publications & Working Papers
 
----
+::: {.panel-tabset}
 
-## Government Grantmaking & Nonprofits {#area-grantmaking}
-(Placeholder) How do RFP and grantmaking processes shape compliance costs, organizational capacity, and service quality?
+## All
 
----
+### Publications
+1. **Xu, C.; Coauthor, A.** (2025). **Paper Title (Placeholder)**. *Journal Name (Placeholder)*.  
+   - DOI: https://doi.org/10.0000/placeholder.2025.001  
+   - (Category: Government Decision Making)
 
-## AI in Government & Governance {#area-ai}
-(Placeholder) Governance frameworks for responsible AI use, auditing, and accountability.
+2. **Xu, C.; Coauthor, B.** (2024). **Paper Title (Placeholder)**. *Journal / Conference (Placeholder)*.  
+   - Link: https://example.com/paper-page  
+   - (Category: Nonprofit Management)
 
----
+3. **Xu, C.; Coauthor, C.** (2023). **Paper Title (Placeholder)**. *Journal (Placeholder)*.  
+   - Link: https://example.com  
+   - (Category: Method)
 
-## (Optional) Working Papers / In Progress {#area-other}
-(Placeholder)
+### Working Papers
+1. **Xu, C.; Coauthor, A.** (2025). **Working Paper Title (Placeholder)**. *(Working paper)*.  
+   - Link (optional): https://example.com  
+   - (Category: Government Decision Making)
+
+2. **Xu, C.; Coauthor, B.** (2024). **Working Paper Title (Placeholder)**. *(Working paper)*.  
+   - Link (optional): https://example.com  
+   - (Category: Nonprofit Management)
+
+3. **Xu, C.; Coauthor, C.** (2023). **Working Paper Title (Placeholder)**. *(Working paper)*.  
+   - Link (optional): https://example.com  
+   - (Category: Method)
+
+## Government Decision Making
+
+### Publications
+1. **Xu, C.; Coauthor, A.** (2025). **Paper Title (Placeholder)**. *Journal Name (Placeholder)*.  
+   - DOI: https://doi.org/10.0000/placeholder.2025.001
+
+### Working Papers
+1. **Xu, C.; Coauthor, A.** (2025). **Working Paper Title (Placeholder)**. *(Working paper)*.  
+   - Link (optional): https://example.com
+
+## Nonprofit Management
+
+### Publications
+1. **Xu, C.; Coauthor, A.** (2025). **Paper Title (Placeholder)**. *Journal Name (Placeholder)*.  
+   - DOI: https://doi.org/10.0000/placeholder.2025.001
+
+### Working Papers
+1. **Xu, C.; Coauthor, A.** (2025). **Working Paper Title (Placeholder)**. *(Working paper)*.  
+   - Link (optional): https://example.com
+
+## Method
+
+### Publications
+1. **Xu, C.; Coauthor, A.** (2025). **Paper Title (Placeholder)**. *Journal Name (Placeholder)*.  
+   - DOI: https://doi.org/10.0000/placeholder.2025.001
+
+### Working Papers
+1. **Xu, C.; Coauthor, A.** (2025). **Working Paper Title (Placeholder)**. *(Working paper)*.  
+   - Link (optional): https://example.com
+
+:::

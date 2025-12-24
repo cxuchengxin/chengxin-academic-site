@@ -5,7 +5,7 @@ title: ""
 [English](../index.qmd) | **中文**
 
 ::: {.hero}
-![](../assets/img/avatar.png){width=84}
+![](../assets/img/avatar.png)
 
 ::: {.hero-text}
 ::: {.hero-title}
@@ -18,74 +18,8 @@ Chengxin Xu
 :::
 :::
 
-## Research Areas（研究方向）
+## 最新动态 News
 
-::: {.card-grid}
-
-::: {.card}
-::: {.card-title}
-[行政负担与公共服务获取](research.qmd#area-admin-burden)
-:::
-::: {.card-desc}
-解释人们为何“有资格却领不到”，并用流程设计降低负担。
-:::
-::: {.card-meta}
-equity · take-up · street-level
-:::
-:::
-
-::: {.card}
-::: {.card-title}
-[政府资助与非营利组织治理](research.qmd#area-grantmaking)
-:::
-::: {.card-desc}
-研究 RFP/拨款流程如何影响非营利组织能力与公共价值。
-:::
-::: {.card-meta}
-RFP · compliance · capacity
-:::
-:::
-
-::: {.card}
-::: {.card-title}
-[政府 AI 应用与治理](research.qmd#area-ai)
-:::
-::: {.card-desc}
-关注 AI 的应用边界、治理机制与风险控制。
-:::
-::: {.card-meta}
-accountability · auditing · governance
-:::
-:::
-
-::: {.card}
-::: {.card-title}
-[(可选) 研究方向 4](research.qmd#area-other)
-:::
-::: {.card-desc}
-占位：你可以再加 1–2 个方向。
-:::
-::: {.card-meta}
-keyword · keyword · keyword
-:::
-:::
-
-:::
-
-## Selected Publications（精选论文）
-1. Xu, C.; Coauthor, A. (2025). **Title of Your Published Paper (Placeholder)**. *Journal Name (Placeholder)*.  
-   - DOI: https://doi.org/10.0000/placeholder.2025.001  
-   - Journal: https://example.com/journal-page
-
-2. Xu, C.; Coauthor, B. (2024). **Another Paper Title (Placeholder)**. *Conference / Journal (Placeholder)*.  
-   - Link: https://example.com/paper-page
-
-## Teaching Snapshot（教学亮点）
-- [公共服务的数据科学（占位）](teaching.qmd#course-dsps) — 数据清洗 · 合并 · API · 可复现分析
-- [定性研究设计与访谈（占位）](teaching.qmd#course-qual) — 访谈 · 编码 · 主题分析
-- [公共政策导论（占位）](teaching.qmd#course-ipp) — 政策过程 · 公平 · 写作与论证
-
-## News（最新动态）
 - **2025-12-20**（占位）论文被期刊接收：Title...
 - **2025-11-10**（占位）会议报告：Conference / Session...
 - **2025-09-01**（占位）新项目启动：Project...

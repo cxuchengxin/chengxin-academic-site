@@ -3,7 +3,7 @@ title: ""
 ---
 
 ::: {.hero}
-![](assets/img/avatar.png){width=84}
+![](assets/img/avatar.png)
 
 ::: {.hero-text}
 ::: {.hero-title}
@@ -16,74 +16,8 @@ Chengxin Xu
 :::
 :::
 
-## Research Areas
-
-::: {.card-grid}
-
-::: {.card}
-::: {.card-title}
-[Administrative Burden & Service Access](research.qmd#area-admin-burden)
-:::
-::: {.card-desc}
-Why eligible people fail to receive services—and how to reduce frictions through process design.
-:::
-::: {.card-meta}
-equity · take-up · street-level
-:::
-:::
-
-::: {.card}
-::: {.card-title}
-[Government Grantmaking & Nonprofits](research.qmd#area-grantmaking)
-:::
-::: {.card-desc}
-How RFP and grant processes shape nonprofit capacity, compliance, and public value.
-:::
-::: {.card-meta}
-RFP · compliance · capacity
-:::
-:::
-
-::: {.card}
-::: {.card-title}
-[AI in Government & Governance](research.qmd#area-ai)
-:::
-::: {.card-desc}
-Governance mechanisms, accountability, and risk controls for public-sector AI use.
-:::
-::: {.card-meta}
-accountability · auditing · governance
-:::
-:::
-
-::: {.card}
-::: {.card-title}
-[(Optional) Research Area 4](research.qmd#area-other)
-:::
-::: {.card-desc}
-Placeholder for one more research direction.
-:::
-::: {.card-meta}
-keyword · keyword · keyword
-:::
-:::
-
-:::
-
-## Selected Publications
-1. Xu, C.; Coauthor, A. (2025). **Title of Your Published Paper (Placeholder)**. *Journal Name (Placeholder)*.  
-   - DOI: https://doi.org/10.0000/placeholder.2025.001  
-   - Journal: https://example.com/journal-page
-
-2. Xu, C.; Coauthor, B. (2024). **Another Paper Title (Placeholder)**. *Conference / Journal (Placeholder)*.  
-   - Link: https://example.com/paper-page
-
-## Teaching Snapshot
-- [Data Science for Public Services (Placeholder)](teaching.qmd#course-dsps) — cleaning · merging · APIs · reproducibility
-- [Qualitative Research Design & Interviews (Placeholder)](teaching.qmd#course-qual) — interviews · coding · thematic analysis
-- [Introduction to Public Policy (Placeholder)](teaching.qmd#course-ipp) — policy process · equity · writing
-
 ## News
+
 - **2025-12-20** (Placeholder) Paper accepted: Title...
 - **2025-11-10** (Placeholder) Presented at: Conference / Session...
 - **2025-09-01** (Placeholder) New project launched: Project...

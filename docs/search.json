@@ -1,75 +1,5 @@
 [
   {
-    "objectID": "en/cv.html",
-    "href": "en/cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "Download CV (PDF)\n\n(Placeholder) Web CV sections"
-  },
-  {
-    "objectID": "en/index.html",
-    "href": "en/index.html",
-    "title": "Chengxin Xu",
-    "section": "",
-    "text": "Chengxin Xu\n\n\n(Placeholder) I study [topic] using [methods] to address [core problem] with actionable policy and management insights."
-  },
-  {
-    "objectID": "en/index.html#research-areas",
-    "href": "en/index.html#research-areas",
-    "title": "Chengxin Xu",
-    "section": "Research Areas",
-    "text": "Research Areas\n\n\n\nAdministrative Burden & Service Access\n\n\nWhy eligible people fail to receive benefits—and how to reduce frictions through design.\n\n\nequity · take-up · street-level\n\n\n\n\nGovernment Grantmaking & Nonprofits\n\n\nHow RFP and grant processes shape nonprofit capacity and public value.\n\n\nRFP · compliance · capacity\n\n\n\n\nAI in Government & Governance\n\n\nBoundaries, governance, and risk controls for AI use in the public sector.\n\n\naccountability · auditing · governance"
-  },
-  {
-    "objectID": "en/index.html#selected-publications",
-    "href": "en/index.html#selected-publications",
-    "title": "Chengxin Xu",
-    "section": "Selected Publications",
-    "text": "Selected Publications\n\nXu, C.; Coauthor, A. (2025). Title (Placeholder). Journal (Placeholder).\n\nDOI: https://doi.org/10.0000/placeholder.2025.001\n\nXu, C.; Coauthor, B. (2024). Title (Placeholder). Venue (Placeholder).\n\nLink: https://example.com/paper-page"
-  },
-  {
-    "objectID": "en/index.html#teaching-snapshot",
-    "href": "en/index.html#teaching-snapshot",
-    "title": "Chengxin Xu",
-    "section": "Teaching Snapshot",
-    "text": "Teaching Snapshot\n\nData Science for Public Services (Placeholder)\nQualitative Research Design & Interviews (Placeholder)\nIntroduction to Public Policy (Placeholder)"
-  },
-  {
-    "objectID": "en/index.html#news",
-    "href": "en/index.html#news",
-    "title": "Chengxin Xu",
-    "section": "News",
-    "text": "News\n\n2025-12-20 (Placeholder) Paper accepted…\n2025-11-10 (Placeholder) Presented at…"
-  },
-  {
-    "objectID": "en/research.html",
-    "href": "en/research.html",
-    "title": "Research",
-    "section": "",
-    "text": "(Placeholder) Problem · Methods · Contributions · Keywords"
-  },
-  {
-    "objectID": "en/research.html#area-admin-burden",
-    "href": "en/research.html#area-admin-burden",
-    "title": "Research",
-    "section": "",
-    "text": "(Placeholder) Problem · Methods · Contributions · Keywords"
-  },
-  {
-    "objectID": "en/research.html#area-grantmaking",
-    "href": "en/research.html#area-grantmaking",
-    "title": "Research",
-    "section": "Government Grantmaking & Nonprofits",
-    "text": "Government Grantmaking & Nonprofits\n(Placeholder)"
-  },
-  {
-    "objectID": "en/research.html#area-ai",
-    "href": "en/research.html#area-ai",
-    "title": "Research",
-    "section": "AI in Government & Governance",
-    "text": "AI in Government & Governance\n(Placeholder)"
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
@@ -88,21 +18,7 @@
     "href": "zh/publications.html",
     "title": "论文 Publications",
     "section": "",
-    "text": "English | 中文"
-  },
-  {
-    "objectID": "zh/publications.html#section",
-    "href": "zh/publications.html#section",
-    "title": "论文 Publications",
-    "section": "2025",
-    "text": "2025\n\nXu, C.; Coauthor, A. (2025). Title of Your Published Paper (Placeholder). Journal Name (Placeholder).\n\nDOI: https://doi.org/10.0000/placeholder.2025.001\n\nJournal: https://example.com/journal-page"
-  },
-  {
-    "objectID": "zh/publications.html#section-1",
-    "href": "zh/publications.html#section-1",
-    "title": "论文 Publications",
-    "section": "2024",
-    "text": "2024\n\nXu, C.; Coauthor, B. (2024). Another Paper Title (Placeholder). Conference / Journal (Placeholder).\n\nLink: https://example.com/paper-page"
+    "text": "English | 中文\n此页面已移动。\n✅ 论文列表已合并到 研究 Research 页面中。\n\n前往：研究 → 论文\n在研项目：研究 → 在研项目"
   },
   {
     "objectID": "zh/contact.html",
@@ -147,27 +63,6 @@
     "text": "Chengxin Xu\n\n\n(Placeholder) I study [topic] using [methods] to address [core problem], producing actionable insights for policy and management."
   },
   {
-    "objectID": "index.html#research-areas",
-    "href": "index.html#research-areas",
-    "title": "Chengxin Xu",
-    "section": "Research Areas",
-    "text": "Research Areas\n\n\n\nAdministrative Burden & Service Access\n\n\nWhy eligible people fail to receive services—and how to reduce frictions through process design.\n\n\nequity · take-up · street-level\n\n\n\n\nGovernment Grantmaking & Nonprofits\n\n\nHow RFP and grant processes shape nonprofit capacity, compliance, and public value.\n\n\nRFP · compliance · capacity\n\n\n\n\nAI in Government & Governance\n\n\nGovernance mechanisms, accountability, and risk controls for public-sector AI use.\n\n\naccountability · auditing · governance\n\n\n\n\n(Optional) Research Area 4\n\n\nPlaceholder for one more research direction.\n\n\nkeyword · keyword · keyword"
-  },
-  {
-    "objectID": "index.html#selected-publications",
-    "href": "index.html#selected-publications",
-    "title": "Chengxin Xu",
-    "section": "Selected Publications",
-    "text": "Selected Publications\n\nXu, C.; Coauthor, A. (2025). Title of Your Published Paper (Placeholder). Journal Name (Placeholder).\n\nDOI: https://doi.org/10.0000/placeholder.2025.001\n\nJournal: https://example.com/journal-page\n\nXu, C.; Coauthor, B. (2024). Another Paper Title (Placeholder). Conference / Journal (Placeholder).\n\nLink: https://example.com/paper-page"
-  },
-  {
-    "objectID": "index.html#teaching-snapshot",
-    "href": "index.html#teaching-snapshot",
-    "title": "Chengxin Xu",
-    "section": "Teaching Snapshot",
-    "text": "Teaching Snapshot\n\nData Science for Public Services (Placeholder) — cleaning · merging · APIs · reproducibility\nQualitative Research Design & Interviews (Placeholder) — interviews · coding · thematic analysis\nIntroduction to Public Policy (Placeholder) — policy process · equity · writing"
-  },
-  {
     "objectID": "index.html#news",
     "href": "index.html#news",
     "title": "Chengxin Xu",
@@ -179,35 +74,14 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Problem (placeholder): Why do eligible people fail to take up benefits and services?\nMethods (placeholder): administrative data + experiments/quasi-experiments + interviews/text analysis.\nContribution (placeholder): actionable process redesign and equity evaluation.\nKeywords: administrative burden; take-up; equity"
+    "text": "AllGovernment Decision MakingNonprofit ManagementMethod\n\n\n\n\n\nXu, C.; Coauthor, A. (2025). Paper Title (Placeholder). Journal Name (Placeholder).\n\nDOI: https://doi.org/10.0000/placeholder.2025.001\n\n(Category: Government Decision Making)\n\nXu, C.; Coauthor, B. (2024). Paper Title (Placeholder). Journal / Conference (Placeholder).\n\nLink: https://example.com/paper-page\n\n(Category: Nonprofit Management)\n\nXu, C.; Coauthor, C. (2023). Paper Title (Placeholder). Journal (Placeholder).\n\nLink: https://example.com\n\n(Category: Method)\n\n\n\n\n\n\nXu, C.; Coauthor, A. (2025). Working Paper Title (Placeholder). (Working paper).\n\nLink (optional): https://example.com\n\n(Category: Government Decision Making)\n\nXu, C.; Coauthor, B. (2024). Working Paper Title (Placeholder). (Working paper).\n\nLink (optional): https://example.com\n\n(Category: Nonprofit Management)\n\nXu, C.; Coauthor, C. (2023). Working Paper Title (Placeholder). (Working paper).\n\nLink (optional): https://example.com\n\n(Category: Method)\n\n\n\n\n\n\n\n\nXu, C.; Coauthor, A. (2025). Paper Title (Placeholder). Journal Name (Placeholder).\n\nDOI: https://doi.org/10.0000/placeholder.2025.001\n\n\n\n\n\n\nXu, C.; Coauthor, A. (2025). Working Paper Title (Placeholder). (Working paper).\n\nLink (optional): https://example.com\n\n\n\n\n\n\n\n\nXu, C.; Coauthor, A. (2025). Paper Title (Placeholder). Journal Name (Placeholder).\n\nDOI: https://doi.org/10.0000/placeholder.2025.001\n\n\n\n\n\n\nXu, C.; Coauthor, A. (2025). Working Paper Title (Placeholder). (Working paper).\n\nLink (optional): https://example.com\n\n\n\n\n\n\n\n\nXu, C.; Coauthor, A. (2025). Paper Title (Placeholder). Journal Name (Placeholder).\n\nDOI: https://doi.org/10.0000/placeholder.2025.001\n\n\n\n\n\n\nXu, C.; Coauthor, A. (2025). Working Paper Title (Placeholder). (Working paper).\n\nLink (optional): https://example.com"
   },
   {
-    "objectID": "research.html#area-admin-burden",
-    "href": "research.html#area-admin-burden",
+    "objectID": "research.html#publications-working-papers",
+    "href": "research.html#publications-working-papers",
     "title": "Research",
     "section": "",
-    "text": "Problem (placeholder): Why do eligible people fail to take up benefits and services?\nMethods (placeholder): administrative data + experiments/quasi-experiments + interviews/text analysis.\nContribution (placeholder): actionable process redesign and equity evaluation.\nKeywords: administrative burden; take-up; equity"
-  },
-  {
-    "objectID": "research.html#area-grantmaking",
-    "href": "research.html#area-grantmaking",
-    "title": "Research",
-    "section": "Government Grantmaking & Nonprofits",
-    "text": "Government Grantmaking & Nonprofits\n(Placeholder) How do RFP and grantmaking processes shape compliance costs, organizational capacity, and service quality?"
-  },
-  {
-    "objectID": "research.html#area-ai",
-    "href": "research.html#area-ai",
-    "title": "Research",
-    "section": "AI in Government & Governance",
-    "text": "AI in Government & Governance\n(Placeholder) Governance frameworks for responsible AI use, auditing, and accountability."
-  },
-  {
-    "objectID": "research.html#area-other",
-    "href": "research.html#area-other",
-    "title": "Research",
-    "section": "(Optional) Working Papers / In Progress",
-    "text": "(Optional) Working Papers / In Progress\n(Placeholder)"
+    "text": "AllGovernment Decision MakingNonprofit ManagementMethod\n\n\n\n\n\nXu, C.; Coauthor, A. (2025). Paper Title (Placeholder). Journal Name (Placeholder).\n\nDOI: https://doi.org/10.0000/placeholder.2025.001\n\n(Category: Government Decision Making)\n\nXu, C.; Coauthor, B. (2024). Paper Title (Placeholder). Journal / Conference (Placeholder).\n\nLink: https://example.com/paper-page\n\n(Category: Nonprofit Management)\n\nXu, C.; Coauthor, C. (2023). Paper Title (Placeholder). Journal (Placeholder).\n\nLink: https://example.com\n\n(Category: Method)\n\n\n\n\n\n\nXu, C.; Coauthor, A. (2025). Working Paper Title (Placeholder). (Working paper).\n\nLink (optional): https://example.com\n\n(Category: Government Decision Making)\n\nXu, C.; Coauthor, B. (2024). Working Paper Title (Placeholder). (Working paper).\n\nLink (optional): https://example.com\n\n(Category: Nonprofit Management)\n\nXu, C.; Coauthor, C. (2023). Working Paper Title (Placeholder). (Working paper).\n\nLink (optional): https://example.com\n\n(Category: Method)\n\n\n\n\n\n\n\n\nXu, C.; Coauthor, A. (2025). Paper Title (Placeholder). Journal Name (Placeholder).\n\nDOI: https://doi.org/10.0000/placeholder.2025.001\n\n\n\n\n\n\nXu, C.; Coauthor, A. (2025). Working Paper Title (Placeholder). (Working paper).\n\nLink (optional): https://example.com\n\n\n\n\n\n\n\n\nXu, C.; Coauthor, A. (2025). Paper Title (Placeholder). Journal Name (Placeholder).\n\nDOI: https://doi.org/10.0000/placeholder.2025.001\n\n\n\n\n\n\nXu, C.; Coauthor, A. (2025). Working Paper Title (Placeholder). (Working paper).\n\nLink (optional): https://example.com\n\n\n\n\n\n\n\n\nXu, C.; Coauthor, A. (2025). Paper Title (Placeholder). Journal Name (Placeholder).\n\nDOI: https://doi.org/10.0000/placeholder.2025.001\n\n\n\n\n\n\nXu, C.; Coauthor, A. (2025). Working Paper Title (Placeholder). (Working paper).\n\nLink (optional): https://example.com"
   },
   {
     "objectID": "teaching.html",
@@ -249,21 +123,7 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Xu, C.; Coauthor, A. (2025). Title of Your Published Paper (Placeholder). Journal Name (Placeholder).\n\nDOI: https://doi.org/10.0000/placeholder.2025.001\n\nJournal: https://example.com/journal-page"
-  },
-  {
-    "objectID": "publications.html#section",
-    "href": "publications.html#section",
-    "title": "Publications",
-    "section": "",
-    "text": "Xu, C.; Coauthor, A. (2025). Title of Your Published Paper (Placeholder). Journal Name (Placeholder).\n\nDOI: https://doi.org/10.0000/placeholder.2025.001\n\nJournal: https://example.com/journal-page"
-  },
-  {
-    "objectID": "publications.html#section-1",
-    "href": "publications.html#section-1",
-    "title": "Publications",
-    "section": "2024",
-    "text": "2024\n\nXu, C.; Coauthor, B. (2024). Another Paper Title (Placeholder). Conference / Journal (Placeholder).\n\nLink: https://example.com/paper-page"
+    "text": "This page has moved.\n✅ Publications are now included in Research.\n\nGo to: Research → Publications\nWorking projects: Research → Working Projects"
   },
   {
     "objectID": "zh/research.html",
@@ -273,32 +133,11 @@
     "text": "English | 中文"
   },
   {
-    "objectID": "zh/research.html#area-admin-burden",
-    "href": "zh/research.html#area-admin-burden",
+    "objectID": "zh/research.html#论文与工作论文-publications-working-papers",
+    "href": "zh/research.html#论文与工作论文-publications-working-papers",
     "title": "研究 Research",
-    "section": "行政负担与公共服务获取",
-    "text": "行政负担与公共服务获取\n问题（占位）为何“有资格却领不到”？\n方法（占位）行政数据 + 实验/准实验 + 访谈/文本分析。\n贡献（占位）提出可操作的流程改进并评估公平影响。\n关键词：administrative burden; take-up; equity"
-  },
-  {
-    "objectID": "zh/research.html#area-grantmaking",
-    "href": "zh/research.html#area-grantmaking",
-    "title": "研究 Research",
-    "section": "政府资助与非营利组织治理",
-    "text": "政府资助与非营利组织治理\n（占位）RFP 与拨款流程如何影响合规成本、能力建设与服务质量？"
-  },
-  {
-    "objectID": "zh/research.html#area-ai",
-    "href": "zh/research.html#area-ai",
-    "title": "研究 Research",
-    "section": "政府 AI 应用与治理",
-    "text": "政府 AI 应用与治理\n（占位）AI 治理、问责与审计框架。"
-  },
-  {
-    "objectID": "zh/research.html#area-other",
-    "href": "zh/research.html#area-other",
-    "title": "研究 Research",
-    "section": "（可选）Working Papers / In Progress",
-    "text": "（可选）Working Papers / In Progress\n（占位）"
+    "section": "论文与工作论文 Publications & Working Papers",
+    "text": "论文与工作论文 Publications & Working Papers\n\nAllGovernment Decision MakingNonprofit ManagementMethod\n\n\n\nPublications（论文）\n\nXu, C.; Coauthor, A. (2025). 论文题目（占位）. 期刊（占位）.\n\nDOI: https://doi.org/10.0000/placeholder.2025.001\n-（分类：Government Decision Making）\n\nXu, C.; Coauthor, B. (2024). 论文题目（占位）. 期刊/会议（占位）.\n\nLink: https://example.com/paper-page\n-（分类：Nonprofit Management）\n\nXu, C.; Coauthor, C. (2023). 论文题目（占位）. 期刊（占位）.\n\nLink: https://example.com\n-（分类：Method）\n\n\n\n\nWorking Papers（工作论文）\n\nXu, C.; Coauthor, A. (2025). 工作论文题目（占位）.（工作论文）\n\nLink（可选）: https://example.com\n-（分类：Government Decision Making）\n\nXu, C.; Coauthor, B. (2024). 工作论文题目（占位）.（工作论文）\n\nLink（可选）: https://example.com\n-（分类：Nonprofit Management）\n\nXu, C.; Coauthor, C. (2023). 工作论文题目（占位）.（工作论文）\n\nLink（可选）: https://example.com\n-（分类：Method）\n\n\n\n\n\n\nPublications（论文）\n\nXu, C.; Coauthor, A. (2025). 论文题目（占位）. 期刊（占位）.\n\nDOI: https://doi.org/10.0000/placeholder.2025.001\n\n\n\n\nWorking Papers（工作论文）\n\nXu, C.; Coauthor, A. (2025). 工作论文题目（占位）.（工作论文）\n\nLink（可选）: https://example.com\n\n\n\n\n\n\nPublications（论文）\n\nXu, C.; Coauthor, A. (2025). 论文题目（占位）. 期刊（占位）.\n\nDOI: https://doi.org/10.0000/placeholder.2025.001\n\n\n\n\nWorking Papers（工作论文）\n\nXu, C.; Coauthor, A. (2025). 工作论文题目（占位）.（工作论文）\n\nLink（可选）: https://example.com\n\n\n\n\n\n\nPublications（论文）\n\nXu, C.; Coauthor, A. (2025). 论文题目（占位）. 期刊（占位）.\n\nDOI: https://doi.org/10.0000/placeholder.2025.001\n\n\n\n\nWorking Papers（工作论文）\n\nXu, C.; Coauthor, A. (2025). 工作论文题目（占位）.（工作论文）\n\nLink（可选）: https://example.com"
   },
   {
     "objectID": "zh/index.html",
@@ -308,39 +147,18 @@
     "text": "English | 中文"
   },
   {
-    "objectID": "zh/index.html#research-areas研究方向",
-    "href": "zh/index.html#research-areas研究方向",
+    "objectID": "zh/index.html#最新动态-news",
+    "href": "zh/index.html#最新动态-news",
     "title": "Chengxin Xu",
-    "section": "Research Areas（研究方向）",
-    "text": "Research Areas（研究方向）\n\n\n\n行政负担与公共服务获取\n\n\n解释人们为何“有资格却领不到”，并用流程设计降低负担。\n\n\nequity · take-up · street-level\n\n\n\n\n政府资助与非营利组织治理\n\n\n研究 RFP/拨款流程如何影响非营利组织能力与公共价值。\n\n\nRFP · compliance · capacity\n\n\n\n\n政府 AI 应用与治理\n\n\n关注 AI 的应用边界、治理机制与风险控制。\n\n\naccountability · auditing · governance\n\n\n\n\n(可选) 研究方向 4\n\n\n占位：你可以再加 1–2 个方向。\n\n\nkeyword · keyword · keyword"
-  },
-  {
-    "objectID": "zh/index.html#selected-publications精选论文",
-    "href": "zh/index.html#selected-publications精选论文",
-    "title": "Chengxin Xu",
-    "section": "Selected Publications（精选论文）",
-    "text": "Selected Publications（精选论文）\n\nXu, C.; Coauthor, A. (2025). Title of Your Published Paper (Placeholder). Journal Name (Placeholder).\n\nDOI: https://doi.org/10.0000/placeholder.2025.001\n\nJournal: https://example.com/journal-page\n\nXu, C.; Coauthor, B. (2024). Another Paper Title (Placeholder). Conference / Journal (Placeholder).\n\nLink: https://example.com/paper-page"
-  },
-  {
-    "objectID": "zh/index.html#teaching-snapshot教学亮点",
-    "href": "zh/index.html#teaching-snapshot教学亮点",
-    "title": "Chengxin Xu",
-    "section": "Teaching Snapshot（教学亮点）",
-    "text": "Teaching Snapshot（教学亮点）\n\n公共服务的数据科学（占位） — 数据清洗 · 合并 · API · 可复现分析\n定性研究设计与访谈（占位） — 访谈 · 编码 · 主题分析\n公共政策导论（占位） — 政策过程 · 公平 · 写作与论证"
-  },
-  {
-    "objectID": "zh/index.html#news最新动态",
-    "href": "zh/index.html#news最新动态",
-    "title": "Chengxin Xu",
-    "section": "News（最新动态）",
-    "text": "News（最新动态）\n\n2025-12-20（占位）论文被期刊接收：Title…\n2025-11-10（占位）会议报告：Conference / Session…\n2025-09-01（占位）新项目启动：Project…"
+    "section": "最新动态 News",
+    "text": "最新动态 News\n\n2025-12-20（占位）论文被期刊接收：Title…\n2025-11-10（占位）会议报告：Conference / Session…\n2025-09-01（占位）新项目启动：Project…"
   },
   {
     "objectID": "zh/cv.html",
     "href": "zh/cv.html",
     "title": "简历 CV",
     "section": "",
-    "text": "下载简历 PDF"
+    "text": "English | 中文"
   },
   {
     "objectID": "zh/cv.html#web-版简历占位",
@@ -348,54 +166,5 @@
     "title": "简历 CV",
     "section": "Web 版简历（占位）",
     "text": "Web 版简历（占位）\n\n研究兴趣：（占位）\n经历：（占位）\n教育：（占位）"
-  },
-  {
-    "objectID": "en/teaching.html",
-    "href": "en/teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "(Placeholder)"
-  },
-  {
-    "objectID": "en/teaching.html#teaching-philosophy",
-    "href": "en/teaching.html#teaching-philosophy",
-    "title": "Teaching",
-    "section": "",
-    "text": "(Placeholder)"
-  },
-  {
-    "objectID": "en/teaching.html#courses",
-    "href": "en/teaching.html#courses",
-    "title": "Teaching",
-    "section": "Courses",
-    "text": "Courses\n\nGraduate: Data Science for Public Services (Placeholder)\nGraduate: Qualitative Research Design & Interviews (Placeholder)\nUndergraduate: Introduction to Public Policy (Placeholder)"
-  },
-  {
-    "objectID": "en/contact.html",
-    "href": "en/contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Email: yourname@university.edu (TODO)\nGoogle Scholar: https://scholar.google.com/ (TODO)\nORCID: https://orcid.org/ (TODO)\nGitHub: https://github.com/ (TODO)\nLinkedIn: https://linkedin.com/in/ (TODO)"
-  },
-  {
-    "objectID": "en/publications.html",
-    "href": "en/publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Xu, C.; Coauthor, A. (2025). Title (Placeholder). Journal (Placeholder).\n\nDOI: https://doi.org/10.0000/placeholder.2025.001"
-  },
-  {
-    "objectID": "en/publications.html#section",
-    "href": "en/publications.html#section",
-    "title": "Publications",
-    "section": "",
-    "text": "Xu, C.; Coauthor, A. (2025). Title (Placeholder). Journal (Placeholder).\n\nDOI: https://doi.org/10.0000/placeholder.2025.001"
-  },
-  {
-    "objectID": "en/publications.html#section-1",
-    "href": "en/publications.html#section-1",
-    "title": "Publications",
-    "section": "2024",
-    "text": "2024\n\nXu, C.; Coauthor, B. (2024). Title (Placeholder). Venue (Placeholder).\n\nLink: https://example.com/paper-page"
   }
 ]
