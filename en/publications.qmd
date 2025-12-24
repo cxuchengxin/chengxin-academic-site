@@ -1,0 +1,11 @@
+---
+title: "Publications"
+---
+
+## 2025
+1. Xu, C.; Coauthor, A. (2025). **Title (Placeholder)**. *Journal (Placeholder)*.  
+   - DOI: https://doi.org/10.0000/placeholder.2025.001
+
+## 2024
+1. Xu, C.; Coauthor, B. (2024). **Title (Placeholder)**. *Venue (Placeholder)*.  
+   - Link: https://example.com/paper-page

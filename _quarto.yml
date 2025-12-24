@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Chengxin Xu"
+
+  # ✅ 关闭右上角站内搜索（移除放大镜/搜索框区域）
+  search: false
+
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right:
+      - text: "中文"
+        href: zh/index.qmd
+
+  page-footer:
+    left: "© 2025 Chengxin Xu"
+    right: "Minimal academic site"
+
+format:
+  html:
+    theme: default
+    css: assets/css/styles.css
+    toc: false
+    smooth-scroll: false
+    link-external-newwindow: true
+    link-external-icon: false

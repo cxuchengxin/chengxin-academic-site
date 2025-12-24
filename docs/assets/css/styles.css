@@ -1,0 +1,122 @@
+/* =====================================================
+   Minimal Academic Style (Bilingual Quarto site)
+   ===================================================== */
+
+:root{
+  --text: #111;
+  --muted: #555;
+  --border: #e6e6e6;
+  --bg: #fff;
+  --accent: #1a5fb4;
+}
+
+/* Base */
+html, body{ background: var(--bg); color: var(--text); }
+body{ font-size: 16px; line-height: 1.75; }
+
+/* Layout width */
+.content, .content-wrap, main.content, .page-columns{
+  max-width: 1080px;
+  margin: 0 auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/* Links */
+a{ color: var(--accent); text-decoration: none; }
+a:hover{ text-decoration: underline; }
+
+/* Headings */
+h1{ font-size: 2.0rem; margin-top: 0.6rem; }
+h2{
+  font-size: 1.35rem;
+  margin-top: 2.2rem;
+  padding-top: 0.6rem;
+  border-top: 1px solid var(--border);
+}
+h3{ font-size: 1.10rem; margin-top: 1.4rem; }
+.muted{ color: var(--muted); }
+
+/* Navbar */
+.navbar{
+  background: #ffffff !important;
+  border-bottom: 1px solid var(--border) !important;
+  box-shadow: none !important;
+}
+.navbar .navbar-brand,
+.navbar .nav-link{ color: var(--text) !important; }
+.navbar .nav-link:hover{
+  color: var(--text) !important;
+  text-decoration: underline;
+}
+
+/* =====================================================
+   Hero
+   ===================================================== */
+.hero{
+  display: flex;
+  gap: 18px;
+  align-items: center;
+  margin: 0.9rem 0 1.6rem 0;
+}
+
+/* ✅ Avatar: bigger, no border, show original image proportions */
+.hero img{
+  width: 160px;          /* was 84px */
+  height: auto;          /* allow original aspect ratio */
+  border: none;          /* remove border */
+  border-radius: 0;      /* no circular crop */
+  object-fit: initial;   /* no forced cropping */
+  display: block;
+}
+
+.hero-title{
+  font-size: 1.65rem;
+  font-weight: 750;
+  margin: 0;
+}
+.hero-subtitle{
+  margin: 0.25rem 0 0 0;
+  color: var(--muted);
+}
+
+/* Cards */
+.card-grid{
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+  margin-top: 0.9rem;
+}
+@media (max-width: 720px){
+  .card-grid{ grid-template-columns: 1fr; }
+}
+.card{
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 14px 14px 12px 14px;
+  background: #fff;
+}
+.card:hover{ border-color: #d0d0d0; }
+.card a:hover{ text-decoration: none; }
+.card-title{ font-weight: 650; margin-bottom: 6px; }
+.card-desc{ color: var(--muted); margin: 0 0 8px 0; }
+.card-meta{ color: var(--muted); font-size: 0.92rem; }
+.card-title a{ color: var(--text); text-decoration: none; }
+.card-title a:hover{ text-decoration: underline; }
+
+/* Publications / Lists */
+.pub-list li{ margin: 0.75rem 0; }
+.pub-links a{
+  margin-right: 10px;
+  white-space: nowrap;
+  font-size: 0.95rem;
+}
+
+/* News */
+.news-list{ list-style: none; padding-left: 0; margin-top: 0.8rem; }
+.news-item{ padding: 10px 0; border-bottom: 1px solid var(--border); }
+.news-date{
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+  color: var(--muted);
+  font-size: 0.92rem;
+}

@@ -1,0 +1,24 @@
+---
+title: "Research"
+---
+
+## Administrative Burden & Service Access {#area-admin-burden}
+**Problem (placeholder):** Why do eligible people fail to take up benefits and services?  
+**Methods (placeholder):** administrative data + experiments/quasi-experiments + interviews/text analysis.  
+**Contribution (placeholder):** actionable process redesign and equity evaluation.  
+**Keywords:** administrative burden; take-up; equity
+
+---
+
+## Government Grantmaking & Nonprofits {#area-grantmaking}
+(Placeholder) How do RFP and grantmaking processes shape compliance costs, organizational capacity, and service quality?
+
+---
+
+## AI in Government & Governance {#area-ai}
+(Placeholder) Governance frameworks for responsible AI use, auditing, and accountability.
+
+---
+
+## (Optional) Working Papers / In Progress {#area-other}
+(Placeholder)

@@ -1,0 +1,12 @@
+---
+title: "联系 Contact"
+---
+
+[English](../contact.qmd) | **中文**
+
+- **邮箱**：yourname@university.edu（TODO）
+- **机构**：Seattle University（TODO）
+- **Google Scholar**：https://scholar.google.com/（TODO）
+- **ORCID**：https://orcid.org/（TODO）
+- **GitHub**：https://github.com/（TODO）
+- **LinkedIn**：https://linkedin.com/in/（TODO）

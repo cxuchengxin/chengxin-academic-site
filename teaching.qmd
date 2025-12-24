@@ -1,0 +1,28 @@
+---
+title: "Teaching"
+---
+
+## Teaching Philosophy
+(Placeholder) I use a problem-driven approach that emphasizes transferable skills, reproducible workflows, and feedback loops.
+
+## Courses
+### Graduate
+- **Fall 2025 (Placeholder):** Data Science for Public Services
+- **Spring 2025 (Placeholder):** Qualitative Research Design & Interviews
+
+### Undergraduate
+- **Winter 2024 (Placeholder):** Introduction to Public Policy
+
+---
+
+## Course Details (Template)
+
+### Data Science for Public Services (Placeholder) {#course-dsps}
+- Learning goals: data cleaning/merging, APIs, reproducible analysis
+- Topics: data quality, measurement, visualization, communication
+
+### Qualitative Research Design & Interviews (Placeholder) {#course-qual}
+(Placeholder)
+
+### Introduction to Public Policy (Placeholder) {#course-ipp}
+(Placeholder)

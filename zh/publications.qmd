@@ -1,0 +1,14 @@
+---
+title: "论文 Publications"
+---
+
+[English](../publications.qmd) | **中文**
+
+## 2025
+1. **Xu, C.; Coauthor, A.** (2025). **Title of Your Published Paper (Placeholder)**. *Journal Name (Placeholder)*.  
+   - DOI: https://doi.org/10.0000/placeholder.2025.001  
+   - Journal: https://example.com/journal-page
+
+## 2024
+1. **Xu, C.; Coauthor, B.** (2024). **Another Paper Title (Placeholder)**. *Conference / Journal (Placeholder)*.  
+   - Link: https://example.com/paper-page

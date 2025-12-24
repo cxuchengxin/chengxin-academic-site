@@ -1,0 +1,26 @@
+---
+title: "研究 Research"
+---
+
+[English](../research.qmd) | **中文**
+
+## 行政负担与公共服务获取 {#area-admin-burden}
+**问题**（占位）为何“有资格却领不到”？  
+**方法**（占位）行政数据 + 实验/准实验 + 访谈/文本分析。  
+**贡献**（占位）提出可操作的流程改进并评估公平影响。  
+**关键词**：administrative burden; take-up; equity
+
+---
+
+## 政府资助与非营利组织治理 {#area-grantmaking}
+（占位）RFP 与拨款流程如何影响合规成本、能力建设与服务质量？
+
+---
+
+## 政府 AI 应用与治理 {#area-ai}
+（占位）AI 治理、问责与审计框架。
+
+---
+
+## （可选）Working Papers / In Progress {#area-other}
+（占位）

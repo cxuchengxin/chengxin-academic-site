@@ -1,0 +1,12 @@
+---
+title: "Research"
+---
+
+## Administrative Burden & Service Access {#area-admin-burden}
+(Placeholder) Problem · Methods · Contributions · Keywords
+
+## Government Grantmaking & Nonprofits {#area-grantmaking}
+(Placeholder)
+
+## AI in Government & Governance {#area-ai}
+(Placeholder)
