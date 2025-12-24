@@ -77,18 +77,67 @@
     "text": "Download CV (PDF)"
   },
   {
-    "objectID": "cv.html#下载-pdf",
-    "href": "cv.html#下载-pdf",
-    "title": "简历 CV",
-    "section": "",
-    "text": "Download CV (PDF)"
+    "objectID": "cv.html#web-cv-placeholder",
+    "href": "cv.html#web-cv-placeholder",
+    "title": "CV",
+    "section": "Web CV (Placeholder)",
+    "text": "Web CV (Placeholder)\n\nResearch interests: (Placeholder)\nExperience: (Placeholder)\nEducation: (Placeholder)"
   },
   {
-    "objectID": "cv.html#web-版简历占位",
-    "href": "cv.html#web-版简历占位",
-    "title": "简历 CV",
-    "section": "Web 版简历（占位）",
-    "text": "Web 版简历（占位）\n\nResearch interests: (Placeholder)\nExperience: (Placeholder)\nEducation: (Placeholder)"
+    "objectID": "zh/publications.html",
+    "href": "zh/publications.html",
+    "title": "论文 Publications",
+    "section": "",
+    "text": "English | 中文"
+  },
+  {
+    "objectID": "zh/publications.html#section",
+    "href": "zh/publications.html#section",
+    "title": "论文 Publications",
+    "section": "2025",
+    "text": "2025\n\nXu, C.; Coauthor, A. (2025). Title of Your Published Paper (Placeholder). Journal Name (Placeholder).\n\nDOI: https://doi.org/10.0000/placeholder.2025.001\n\nJournal: https://example.com/journal-page"
+  },
+  {
+    "objectID": "zh/publications.html#section-1",
+    "href": "zh/publications.html#section-1",
+    "title": "论文 Publications",
+    "section": "2024",
+    "text": "2024\n\nXu, C.; Coauthor, B. (2024). Another Paper Title (Placeholder). Conference / Journal (Placeholder).\n\nLink: https://example.com/paper-page"
+  },
+  {
+    "objectID": "zh/contact.html",
+    "href": "zh/contact.html",
+    "title": "联系 Contact",
+    "section": "",
+    "text": "English | 中文\n\n邮箱：yourname@university.edu（TODO）\n机构：Seattle University（TODO）\nGoogle Scholar：https://scholar.google.com/（TODO）\nORCID：https://orcid.org/（TODO）\nGitHub：https://github.com/（TODO）\nLinkedIn：https://linkedin.com/in/（TODO）"
+  },
+  {
+    "objectID": "zh/teaching.html",
+    "href": "zh/teaching.html",
+    "title": "教学 Teaching",
+    "section": "",
+    "text": "English | 中文"
+  },
+  {
+    "objectID": "zh/teaching.html#教学理念",
+    "href": "zh/teaching.html#教学理念",
+    "title": "教学 Teaching",
+    "section": "教学理念",
+    "text": "教学理念\n（占位）用“可迁移技能 + 真实问题驱动”的方式组织课程，强调可复现作业与反馈循环。"
+  },
+  {
+    "objectID": "zh/teaching.html#课程列表",
+    "href": "zh/teaching.html#课程列表",
+    "title": "教学 Teaching",
+    "section": "课程列表",
+    "text": "课程列表\n\n研究生课程（Graduate）\n\nFall 2025：公共服务的数据科学（占位）\nSpring 2025：定性研究设计与访谈（占位）\n\n\n\n本科课程（Undergraduate）\n\nWinter 2024：公共政策导论（占位）"
+  },
+  {
+    "objectID": "zh/teaching.html#课程详情模板",
+    "href": "zh/teaching.html#课程详情模板",
+    "title": "教学 Teaching",
+    "section": "课程详情（模板）",
+    "text": "课程详情（模板）\n\n公共服务的数据科学（占位）\n\n学习目标：数据清洗/合并、API、可复现分析\n主题：数据质量、指标、可视化、沟通\n\n\n\n定性研究设计与访谈（占位）\n（占位）\n\n\n公共政策导论（占位）\n（占位）"
   },
   {
     "objectID": "index.html",
@@ -98,32 +147,32 @@
     "text": "Chengxin Xu\n\n\n(Placeholder) I study [topic] using [methods] to address [core problem], producing actionable insights for policy and management."
   },
   {
-    "objectID": "index.html#research-areas研究方向",
-    "href": "index.html#research-areas研究方向",
+    "objectID": "index.html#research-areas",
+    "href": "index.html#research-areas",
     "title": "Chengxin Xu",
-    "section": "Research Areas（研究方向）",
-    "text": "Research Areas（研究方向）\n\n\n\n行政负担与公共服务获取\n\n\n解释人们为何“有资格却领不到”，并用流程设计降低负担。\n\n\nequity · take-up · street-level\n\n\n\n\n政府资助与非营利组织治理\n\n\n研究 RFP/拨款流程如何影响非营利组织能力与公共价值。\n\n\nRFP · compliance · capacity\n\n\n\n\n政府 AI 应用与治理\n\n\n关注 AI 的应用边界、治理机制与风险控制。\n\n\naccountability · auditing · governance\n\n\n\n\n(可选) 研究方向 4\n\n\n占位：你可以再加 1–2 个方向。\n\n\nkeyword · keyword · keyword"
+    "section": "Research Areas",
+    "text": "Research Areas\n\n\n\nAdministrative Burden & Service Access\n\n\nWhy eligible people fail to receive services—and how to reduce frictions through process design.\n\n\nequity · take-up · street-level\n\n\n\n\nGovernment Grantmaking & Nonprofits\n\n\nHow RFP and grant processes shape nonprofit capacity, compliance, and public value.\n\n\nRFP · compliance · capacity\n\n\n\n\nAI in Government & Governance\n\n\nGovernance mechanisms, accountability, and risk controls for public-sector AI use.\n\n\naccountability · auditing · governance\n\n\n\n\n(Optional) Research Area 4\n\n\nPlaceholder for one more research direction.\n\n\nkeyword · keyword · keyword"
   },
   {
-    "objectID": "index.html#selected-publications精选论文",
-    "href": "index.html#selected-publications精选论文",
+    "objectID": "index.html#selected-publications",
+    "href": "index.html#selected-publications",
     "title": "Chengxin Xu",
-    "section": "Selected Publications（精选论文）",
-    "text": "Selected Publications（精选论文）\n\nXu, C.; Coauthor, A. (2025). Title of Your Published Paper (Placeholder). Journal Name (Placeholder).\n\nDOI: https://doi.org/10.0000/placeholder.2025.001\n\nJournal: https://example.com/journal-page\n\nXu, C.; Coauthor, B. (2024). Another Paper Title (Placeholder). Conference / Journal (Placeholder).\n\nLink: https://example.com/paper-page"
+    "section": "Selected Publications",
+    "text": "Selected Publications\n\nXu, C.; Coauthor, A. (2025). Title of Your Published Paper (Placeholder). Journal Name (Placeholder).\n\nDOI: https://doi.org/10.0000/placeholder.2025.001\n\nJournal: https://example.com/journal-page\n\nXu, C.; Coauthor, B. (2024). Another Paper Title (Placeholder). Conference / Journal (Placeholder).\n\nLink: https://example.com/paper-page"
   },
   {
-    "objectID": "index.html#teaching-snapshot教学亮点",
-    "href": "index.html#teaching-snapshot教学亮点",
+    "objectID": "index.html#teaching-snapshot",
+    "href": "index.html#teaching-snapshot",
     "title": "Chengxin Xu",
-    "section": "Teaching Snapshot（教学亮点）",
-    "text": "Teaching Snapshot（教学亮点）\n\n\n\n公共服务的数据科学（占位）\n\n\n数据清洗 · 合并 · API · 可复现分析\n\n\nGrad · Fall 2025\n\n\n\n\n定性研究设计与访谈（占位）\n\n\n访谈 · 编码 · 主题分析 · 研究伦理\n\n\nGrad · Spring 2025\n\n\n\n\n公共政策导论（占位）\n\n\n政策过程 · 公平 · 写作与论证\n\n\nUndergrad · Winter 2024"
+    "section": "Teaching Snapshot",
+    "text": "Teaching Snapshot\n\nData Science for Public Services (Placeholder) — cleaning · merging · APIs · reproducibility\nQualitative Research Design & Interviews (Placeholder) — interviews · coding · thematic analysis\nIntroduction to Public Policy (Placeholder) — policy process · equity · writing"
   },
   {
-    "objectID": "index.html#news最新动态",
-    "href": "index.html#news最新动态",
+    "objectID": "index.html#news",
+    "href": "index.html#news",
     "title": "Chengxin Xu",
-    "section": "News（最新动态）",
-    "text": "News（最新动态）\n\n2025-12-20（占位）论文被期刊接收：Title…\n2025-11-10（占位）会议报告：Conference / Session…\n2025-09-01（占位）新项目启动：Project…"
+    "section": "News",
+    "text": "News\n\n2025-12-20 (Placeholder) Paper accepted: Title…\n2025-11-10 (Placeholder) Presented at: Conference / Session…\n2025-09-01 (Placeholder) New project launched: Project…"
   },
   {
     "objectID": "research.html",
@@ -168,25 +217,25 @@
     "text": "(Placeholder) I use a problem-driven approach that emphasizes transferable skills, reproducible workflows, and feedback loops."
   },
   {
-    "objectID": "teaching.html#教学理念",
-    "href": "teaching.html#教学理念",
-    "title": "教学 Teaching",
+    "objectID": "teaching.html#teaching-philosophy",
+    "href": "teaching.html#teaching-philosophy",
+    "title": "Teaching",
     "section": "",
-    "text": "（占位）用“可迁移技能 + 真实问题驱动”的方式组织课程，强调可复现作业与反馈循环。"
+    "text": "(Placeholder) I use a problem-driven approach that emphasizes transferable skills, reproducible workflows, and feedback loops."
   },
   {
-    "objectID": "teaching.html#课程列表",
-    "href": "teaching.html#课程列表",
-    "title": "教学 Teaching",
-    "section": "课程列表",
-    "text": "课程列表\n\n研究生课程（Graduate）\n\nFall 2025：公共服务的数据科学（占位）\nSpring 2025：定性研究设计与访谈（占位）\n\n\n\n本科课程（Undergraduate）\n\nWinter 2024：公共政策导论（占位）"
+    "objectID": "teaching.html#courses",
+    "href": "teaching.html#courses",
+    "title": "Teaching",
+    "section": "Courses",
+    "text": "Courses\n\nGraduate\n\nFall 2025 (Placeholder): Data Science for Public Services\nSpring 2025 (Placeholder): Qualitative Research Design & Interviews\n\n\n\nUndergraduate\n\nWinter 2024 (Placeholder): Introduction to Public Policy"
   },
   {
-    "objectID": "teaching.html#课程详情模板",
-    "href": "teaching.html#课程详情模板",
-    "title": "教学 Teaching",
-    "section": "课程详情（模板）",
-    "text": "课程详情（模板）\n\n公共服务的数据科学（占位）\n\n学习目标：数据清洗/合并、API、可复现分析\n主题：数据质量、指标、可视化、沟通\n\n\n\n定性研究设计与访谈（占位）\n（占位）\n\n\n公共政策导论（占位）\n（占位）"
+    "objectID": "teaching.html#course-details-template",
+    "href": "teaching.html#course-details-template",
+    "title": "Teaching",
+    "section": "Course Details (Template)",
+    "text": "Course Details (Template)\n\nData Science for Public Services (Placeholder)\n\nLearning goals: data cleaning/merging, APIs, reproducible analysis\nTopics: data quality, measurement, visualization, communication\n\n\n\nQualitative Research Design & Interviews (Placeholder)\n(Placeholder)\n\n\nIntroduction to Public Policy (Placeholder)\n(Placeholder)"
   },
   {
     "objectID": "contact.html",
@@ -215,6 +264,90 @@
     "title": "Publications",
     "section": "2024",
     "text": "2024\n\nXu, C.; Coauthor, B. (2024). Another Paper Title (Placeholder). Conference / Journal (Placeholder).\n\nLink: https://example.com/paper-page"
+  },
+  {
+    "objectID": "zh/research.html",
+    "href": "zh/research.html",
+    "title": "研究 Research",
+    "section": "",
+    "text": "English | 中文"
+  },
+  {
+    "objectID": "zh/research.html#area-admin-burden",
+    "href": "zh/research.html#area-admin-burden",
+    "title": "研究 Research",
+    "section": "行政负担与公共服务获取",
+    "text": "行政负担与公共服务获取\n问题（占位）为何“有资格却领不到”？\n方法（占位）行政数据 + 实验/准实验 + 访谈/文本分析。\n贡献（占位）提出可操作的流程改进并评估公平影响。\n关键词：administrative burden; take-up; equity"
+  },
+  {
+    "objectID": "zh/research.html#area-grantmaking",
+    "href": "zh/research.html#area-grantmaking",
+    "title": "研究 Research",
+    "section": "政府资助与非营利组织治理",
+    "text": "政府资助与非营利组织治理\n（占位）RFP 与拨款流程如何影响合规成本、能力建设与服务质量？"
+  },
+  {
+    "objectID": "zh/research.html#area-ai",
+    "href": "zh/research.html#area-ai",
+    "title": "研究 Research",
+    "section": "政府 AI 应用与治理",
+    "text": "政府 AI 应用与治理\n（占位）AI 治理、问责与审计框架。"
+  },
+  {
+    "objectID": "zh/research.html#area-other",
+    "href": "zh/research.html#area-other",
+    "title": "研究 Research",
+    "section": "（可选）Working Papers / In Progress",
+    "text": "（可选）Working Papers / In Progress\n（占位）"
+  },
+  {
+    "objectID": "zh/index.html",
+    "href": "zh/index.html",
+    "title": "Chengxin Xu",
+    "section": "",
+    "text": "English | 中文"
+  },
+  {
+    "objectID": "zh/index.html#research-areas研究方向",
+    "href": "zh/index.html#research-areas研究方向",
+    "title": "Chengxin Xu",
+    "section": "Research Areas（研究方向）",
+    "text": "Research Areas（研究方向）\n\n\n\n行政负担与公共服务获取\n\n\n解释人们为何“有资格却领不到”，并用流程设计降低负担。\n\n\nequity · take-up · street-level\n\n\n\n\n政府资助与非营利组织治理\n\n\n研究 RFP/拨款流程如何影响非营利组织能力与公共价值。\n\n\nRFP · compliance · capacity\n\n\n\n\n政府 AI 应用与治理\n\n\n关注 AI 的应用边界、治理机制与风险控制。\n\n\naccountability · auditing · governance\n\n\n\n\n(可选) 研究方向 4\n\n\n占位：你可以再加 1–2 个方向。\n\n\nkeyword · keyword · keyword"
+  },
+  {
+    "objectID": "zh/index.html#selected-publications精选论文",
+    "href": "zh/index.html#selected-publications精选论文",
+    "title": "Chengxin Xu",
+    "section": "Selected Publications（精选论文）",
+    "text": "Selected Publications（精选论文）\n\nXu, C.; Coauthor, A. (2025). Title of Your Published Paper (Placeholder). Journal Name (Placeholder).\n\nDOI: https://doi.org/10.0000/placeholder.2025.001\n\nJournal: https://example.com/journal-page\n\nXu, C.; Coauthor, B. (2024). Another Paper Title (Placeholder). Conference / Journal (Placeholder).\n\nLink: https://example.com/paper-page"
+  },
+  {
+    "objectID": "zh/index.html#teaching-snapshot教学亮点",
+    "href": "zh/index.html#teaching-snapshot教学亮点",
+    "title": "Chengxin Xu",
+    "section": "Teaching Snapshot（教学亮点）",
+    "text": "Teaching Snapshot（教学亮点）\n\n公共服务的数据科学（占位） — 数据清洗 · 合并 · API · 可复现分析\n定性研究设计与访谈（占位） — 访谈 · 编码 · 主题分析\n公共政策导论（占位） — 政策过程 · 公平 · 写作与论证"
+  },
+  {
+    "objectID": "zh/index.html#news最新动态",
+    "href": "zh/index.html#news最新动态",
+    "title": "Chengxin Xu",
+    "section": "News（最新动态）",
+    "text": "News（最新动态）\n\n2025-12-20（占位）论文被期刊接收：Title…\n2025-11-10（占位）会议报告：Conference / Session…\n2025-09-01（占位）新项目启动：Project…"
+  },
+  {
+    "objectID": "zh/cv.html",
+    "href": "zh/cv.html",
+    "title": "简历 CV",
+    "section": "",
+    "text": "下载简历 PDF"
+  },
+  {
+    "objectID": "zh/cv.html#web-版简历占位",
+    "href": "zh/cv.html#web-版简历占位",
+    "title": "简历 CV",
+    "section": "Web 版简历（占位）",
+    "text": "Web 版简历（占位）\n\n研究兴趣：（占位）\n经历：（占位）\n教育：（占位）"
   },
   {
     "objectID": "en/teaching.html",
@@ -264,201 +397,5 @@
     "title": "Publications",
     "section": "2024",
     "text": "2024\n\nXu, C.; Coauthor, B. (2024). Title (Placeholder). Venue (Placeholder).\n\nLink: https://example.com/paper-page"
-  },
-  {
-    "objectID": "index.html#research-areas",
-    "href": "index.html#research-areas",
-    "title": "Chengxin Xu",
-    "section": "Research Areas",
-    "text": "Research Areas\n\n\n\nAdministrative Burden & Service Access\n\n\nWhy eligible people fail to receive services—and how to reduce frictions through process design.\n\n\nequity · take-up · street-level\n\n\n\n\nGovernment Grantmaking & Nonprofits\n\n\nHow RFP and grant processes shape nonprofit capacity, compliance, and public value.\n\n\nRFP · compliance · capacity\n\n\n\n\nAI in Government & Governance\n\n\nGovernance mechanisms, accountability, and risk controls for public-sector AI use.\n\n\naccountability · auditing · governance\n\n\n\n\n(Optional) Research Area 4\n\n\nPlaceholder for one more research direction.\n\n\nkeyword · keyword · keyword"
-  },
-  {
-    "objectID": "index.html#selected-publications",
-    "href": "index.html#selected-publications",
-    "title": "Chengxin Xu",
-    "section": "Selected Publications",
-    "text": "Selected Publications\n\nXu, C.; Coauthor, A. (2025). Title of Your Published Paper (Placeholder). Journal Name (Placeholder).\n\nDOI: https://doi.org/10.0000/placeholder.2025.001\n\nJournal: https://example.com/journal-page\n\nXu, C.; Coauthor, B. (2024). Another Paper Title (Placeholder). Conference / Journal (Placeholder).\n\nLink: https://example.com/paper-page"
-  },
-  {
-    "objectID": "index.html#teaching-snapshot",
-    "href": "index.html#teaching-snapshot",
-    "title": "Chengxin Xu",
-    "section": "Teaching Snapshot",
-    "text": "Teaching Snapshot\n\nData Science for Public Services (Placeholder) — cleaning · merging · APIs · reproducibility\nQualitative Research Design & Interviews (Placeholder) — interviews · coding · thematic analysis\nIntroduction to Public Policy (Placeholder) — policy process · equity · writing"
-  },
-  {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "Chengxin Xu",
-    "section": "News",
-    "text": "News\n\n2025-12-20 (Placeholder) Paper accepted: Title…\n2025-11-10 (Placeholder) Presented at: Conference / Session…\n2025-09-01 (Placeholder) New project launched: Project…"
-  },
-  {
-    "objectID": "teaching.html#teaching-philosophy",
-    "href": "teaching.html#teaching-philosophy",
-    "title": "Teaching",
-    "section": "",
-    "text": "(Placeholder) I use a problem-driven approach that emphasizes transferable skills, reproducible workflows, and feedback loops."
-  },
-  {
-    "objectID": "teaching.html#courses",
-    "href": "teaching.html#courses",
-    "title": "Teaching",
-    "section": "Courses",
-    "text": "Courses\n\nGraduate\n\nFall 2025 (Placeholder): Data Science for Public Services\nSpring 2025 (Placeholder): Qualitative Research Design & Interviews\n\n\n\nUndergraduate\n\nWinter 2024 (Placeholder): Introduction to Public Policy"
-  },
-  {
-    "objectID": "teaching.html#course-details-template",
-    "href": "teaching.html#course-details-template",
-    "title": "Teaching",
-    "section": "Course Details (Template)",
-    "text": "Course Details (Template)\n\nData Science for Public Services (Placeholder)\n\nLearning goals: data cleaning/merging, APIs, reproducible analysis\nTopics: data quality, measurement, visualization, communication\n\n\n\nQualitative Research Design & Interviews (Placeholder)\n(Placeholder)\n\n\nIntroduction to Public Policy (Placeholder)\n(Placeholder)"
-  },
-  {
-    "objectID": "cv.html#web-cv-placeholder",
-    "href": "cv.html#web-cv-placeholder",
-    "title": "CV",
-    "section": "Web CV (Placeholder)",
-    "text": "Web CV (Placeholder)\n\nResearch interests: (Placeholder)\nExperience: (Placeholder)\nEducation: (Placeholder)"
-  },
-  {
-    "objectID": "zh/cv.html",
-    "href": "zh/cv.html",
-    "title": "简历 CV",
-    "section": "",
-    "text": "下载简历 PDF"
-  },
-  {
-    "objectID": "zh/cv.html#web-版简历占位",
-    "href": "zh/cv.html#web-版简历占位",
-    "title": "简历 CV",
-    "section": "Web 版简历（占位）",
-    "text": "Web 版简历（占位）\n\n研究兴趣：（占位）\n经历：（占位）\n教育：（占位）"
-  },
-  {
-    "objectID": "zh/index.html",
-    "href": "zh/index.html",
-    "title": "Chengxin Xu",
-    "section": "",
-    "text": "English | 中文"
-  },
-  {
-    "objectID": "zh/index.html#research-areas研究方向",
-    "href": "zh/index.html#research-areas研究方向",
-    "title": "Chengxin Xu",
-    "section": "Research Areas（研究方向）",
-    "text": "Research Areas（研究方向）\n\n\n\n行政负担与公共服务获取\n\n\n解释人们为何“有资格却领不到”，并用流程设计降低负担。\n\n\nequity · take-up · street-level\n\n\n\n\n政府资助与非营利组织治理\n\n\n研究 RFP/拨款流程如何影响非营利组织能力与公共价值。\n\n\nRFP · compliance · capacity\n\n\n\n\n政府 AI 应用与治理\n\n\n关注 AI 的应用边界、治理机制与风险控制。\n\n\naccountability · auditing · governance\n\n\n\n\n(可选) 研究方向 4\n\n\n占位：你可以再加 1–2 个方向。\n\n\nkeyword · keyword · keyword"
-  },
-  {
-    "objectID": "zh/index.html#selected-publications精选论文",
-    "href": "zh/index.html#selected-publications精选论文",
-    "title": "Chengxin Xu",
-    "section": "Selected Publications（精选论文）",
-    "text": "Selected Publications（精选论文）\n\nXu, C.; Coauthor, A. (2025). Title of Your Published Paper (Placeholder). Journal Name (Placeholder).\n\nDOI: https://doi.org/10.0000/placeholder.2025.001\n\nJournal: https://example.com/journal-page\n\nXu, C.; Coauthor, B. (2024). Another Paper Title (Placeholder). Conference / Journal (Placeholder).\n\nLink: https://example.com/paper-page"
-  },
-  {
-    "objectID": "zh/index.html#teaching-snapshot教学亮点",
-    "href": "zh/index.html#teaching-snapshot教学亮点",
-    "title": "Chengxin Xu",
-    "section": "Teaching Snapshot（教学亮点）",
-    "text": "Teaching Snapshot（教学亮点）\n\n公共服务的数据科学（占位） — 数据清洗 · 合并 · API · 可复现分析\n定性研究设计与访谈（占位） — 访谈 · 编码 · 主题分析\n公共政策导论（占位） — 政策过程 · 公平 · 写作与论证"
-  },
-  {
-    "objectID": "zh/index.html#news最新动态",
-    "href": "zh/index.html#news最新动态",
-    "title": "Chengxin Xu",
-    "section": "News（最新动态）",
-    "text": "News（最新动态）\n\n2025-12-20（占位）论文被期刊接收：Title…\n2025-11-10（占位）会议报告：Conference / Session…\n2025-09-01（占位）新项目启动：Project…"
-  },
-  {
-    "objectID": "zh/research.html",
-    "href": "zh/research.html",
-    "title": "研究 Research",
-    "section": "",
-    "text": "English | 中文"
-  },
-  {
-    "objectID": "zh/research.html#area-admin-burden",
-    "href": "zh/research.html#area-admin-burden",
-    "title": "研究 Research",
-    "section": "行政负担与公共服务获取",
-    "text": "行政负担与公共服务获取\n问题（占位）为何“有资格却领不到”？\n方法（占位）行政数据 + 实验/准实验 + 访谈/文本分析。\n贡献（占位）提出可操作的流程改进并评估公平影响。\n关键词：administrative burden; take-up; equity"
-  },
-  {
-    "objectID": "zh/research.html#area-grantmaking",
-    "href": "zh/research.html#area-grantmaking",
-    "title": "研究 Research",
-    "section": "政府资助与非营利组织治理",
-    "text": "政府资助与非营利组织治理\n（占位）RFP 与拨款流程如何影响合规成本、能力建设与服务质量？"
-  },
-  {
-    "objectID": "zh/research.html#area-ai",
-    "href": "zh/research.html#area-ai",
-    "title": "研究 Research",
-    "section": "政府 AI 应用与治理",
-    "text": "政府 AI 应用与治理\n（占位）AI 治理、问责与审计框架。"
-  },
-  {
-    "objectID": "zh/research.html#area-other",
-    "href": "zh/research.html#area-other",
-    "title": "研究 Research",
-    "section": "（可选）Working Papers / In Progress",
-    "text": "（可选）Working Papers / In Progress\n（占位）"
-  },
-  {
-    "objectID": "zh/teaching.html",
-    "href": "zh/teaching.html",
-    "title": "教学 Teaching",
-    "section": "",
-    "text": "English | 中文"
-  },
-  {
-    "objectID": "zh/teaching.html#教学理念",
-    "href": "zh/teaching.html#教学理念",
-    "title": "教学 Teaching",
-    "section": "教学理念",
-    "text": "教学理念\n（占位）用“可迁移技能 + 真实问题驱动”的方式组织课程，强调可复现作业与反馈循环。"
-  },
-  {
-    "objectID": "zh/teaching.html#课程列表",
-    "href": "zh/teaching.html#课程列表",
-    "title": "教学 Teaching",
-    "section": "课程列表",
-    "text": "课程列表\n\n研究生课程（Graduate）\n\nFall 2025：公共服务的数据科学（占位）\nSpring 2025：定性研究设计与访谈（占位）\n\n\n\n本科课程（Undergraduate）\n\nWinter 2024：公共政策导论（占位）"
-  },
-  {
-    "objectID": "zh/teaching.html#课程详情模板",
-    "href": "zh/teaching.html#课程详情模板",
-    "title": "教学 Teaching",
-    "section": "课程详情（模板）",
-    "text": "课程详情（模板）\n\n公共服务的数据科学（占位）\n\n学习目标：数据清洗/合并、API、可复现分析\n主题：数据质量、指标、可视化、沟通\n\n\n\n定性研究设计与访谈（占位）\n（占位）\n\n\n公共政策导论（占位）\n（占位）"
-  },
-  {
-    "objectID": "zh/contact.html",
-    "href": "zh/contact.html",
-    "title": "联系 Contact",
-    "section": "",
-    "text": "English | 中文\n\n邮箱：yourname@university.edu（TODO）\n机构：Seattle University（TODO）\nGoogle Scholar：https://scholar.google.com/（TODO）\nORCID：https://orcid.org/（TODO）\nGitHub：https://github.com/（TODO）\nLinkedIn：https://linkedin.com/in/（TODO）"
-  },
-  {
-    "objectID": "zh/publications.html",
-    "href": "zh/publications.html",
-    "title": "论文 Publications",
-    "section": "",
-    "text": "English | 中文"
-  },
-  {
-    "objectID": "zh/publications.html#section",
-    "href": "zh/publications.html#section",
-    "title": "论文 Publications",
-    "section": "2025",
-    "text": "2025\n\nXu, C.; Coauthor, A. (2025). Title of Your Published Paper (Placeholder). Journal Name (Placeholder).\n\nDOI: https://doi.org/10.0000/placeholder.2025.001\n\nJournal: https://example.com/journal-page"
-  },
-  {
-    "objectID": "zh/publications.html#section-1",
-    "href": "zh/publications.html#section-1",
-    "title": "论文 Publications",
-    "section": "2024",
-    "text": "2024\n\nXu, C.; Coauthor, B. (2024). Another Paper Title (Placeholder). Conference / Journal (Placeholder).\n\nLink: https://example.com/paper-page"
   }
 ]
