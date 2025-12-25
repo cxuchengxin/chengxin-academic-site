@@ -4,35 +4,28 @@ project:
 
 website:
   title: "Chengxin Xu"
-
-  # ✅ 已关闭搜索（你之前已解决隐形搜索问题）
   search: false
 
   navbar:
     left:
-      - text: "Home"
+      - text: Home
         href: index.qmd
-      - text: "Research"
+      - text: Research
         href: research.qmd
-      - text: "Teaching"
+      - text: Teaching
         href: teaching.qmd
-      - text: "CV"
+      - text: CV
         href: cv.qmd
-      - text: "Contact"
+      - text: Contact
         href: contact.qmd
-    right:
-      - text: "中文"
-        href: zh/index.qmd
 
-  page-footer:
-    left: "© 2025 Chengxin Xu"
-    right: "Minimal academic site"
+    right:
+      - text: 中文
+        href: zh/
+      - text: EN
+        href: /
 
 format:
   html:
-    theme: default
-    css: assets/css/styles.css
     toc: false
-    smooth-scroll: false
-    link-external-newwindow: true
-    link-external-icon: false
+    css: assets/css/styles.css

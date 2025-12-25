@@ -4,22 +4,45 @@ title: ""
 
 [English](../index.qmd) | **中文**
 
-::: {.hero}
-![](../assets/img/avatar.png)
 
-::: {.hero-text}
-::: {.hero-title}
-Chengxin Xu
+::: {.columns .home-two-col}
+
+::: {.column width="30%"}
+![](assets/img/avatar.png){style="width:600px; max-width:100%; height:auto;"}
 :::
 
-::: {.hero-subtitle}
-一句话定位（占位）：我研究【研究领域】中的【核心问题】，主要使用【方法】来生成可操作的政策与管理洞见。
-:::
-:::
+::: {.column width="70%"}
+<div class="home-name">Chengxin-Michael Xu (许承昕)</div>
+
+<div class="home-bio">
+I am an Associate Professor of the Department of Public Affairs and Nonprofit Leadership at Seattle University. I got my PhD from the School of Public Affairs and Administration (SPAA) at Rutgers University-Newark. I research topics of public administration and nonprofit management. My recent research focuses on the equity of public service delivery, public engagement, and resource allocation. As an experimentalist, my studies draw on insights from theories of organizational behavior, social psychology and behavioral science.
+
+My work appears in leading journals of the field, including *Public Administration Review*, *Journal of Public Administration Research and Theory*, *Nonprofit and Voluntary Sector Quarterly*, *Nonprofit Management and Leadership*, *Voluntas*, and *Policy Studies Journal*.
+
+You can reach me via email: cxu1 [at] seattleu.edu
+</div>
+
+<div class="icon-row" role="navigation" aria-label="External links">
+  <a class="icon-link" href="https://www.linkedin.com/in/chengxin-xu-a4875b56/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+    <img src="assets/icons/linkedin.png" alt="LinkedIn" />
+  </a>
+
+  <a class="icon-link" href="https://scholar.google.com/citations?user=TODO" target="_blank" rel="noopener noreferrer" aria-label="Google Scholar">
+    <img src="assets/icons/scholar.png" alt="Google Scholar" />
+  </a>
+
+  <a class="icon-link" href="https://osf.io/TODO" target="_blank" rel="noopener noreferrer" aria-label="OSF">
+    <img src="assets/icons/osf.png" alt="OSF" />
+  </a>
+
+  <a class="icon-link" href="https://TODO" target="_blank" rel="noopener noreferrer" aria-label="知识星球">
+    <img src="assets/icons/planet.png" alt="知识星球" />
+  </a>
+
+  <a class="icon-link" href="https://TODO.substack.com" target="_blank" rel="noopener noreferrer" aria-label="Substack">
+    <img src="assets/icons/substack.png" alt="Substack" />
+  </a>
+</div>
 :::
 
-## 最新动态 News
-
-- **2025-12-20**（占位）论文被期刊接收：Title...
-- **2025-11-10**（占位）会议报告：Conference / Session...
-- **2025-09-01**（占位）新项目启动：Project...
+:::
