@@ -15,14 +15,25 @@
   --icon-hit: 40px;
   --icon-size: 26px;
 
-  /* ✅ Home spacing controls */
+  /* Home spacing controls */
   --home-gap: 44px;
   --home-left-pad: 10px;
   --home-right-pad: 6px;
 
-  /* ✅ Photo size controls (你改这两行就能调大小) */
-  --photo-max-desktop: 800px; /* 桌面端头像最大宽度：比如 260/300/360 */
-  --photo-max-mobile: 220px;  /* 手机端头像最大宽度：比如 180/220/260 */
+  /* Photo size controls */
+  --photo-max-desktop: 320px;
+  --photo-max-mobile: 220px;
+
+  /* Stronger publication divider controls */
+  --pub-divider-color: #cfcfcf;
+  --pub-divider-width: 2px;
+  --pub-divider-gap: 22px;
+
+  /* BIG section split between Working Projects and Publications */
+  --section-divider-color: #b8b8b8;
+  --section-divider-width: 3px;
+  --section-divider-gap-top: 56px;
+  --section-divider-gap-bottom: 44px;
 }
 
 html, body{ background: var(--bg); color: var(--text); }
@@ -63,7 +74,7 @@ h3{ font-size: 1.10rem; margin-top: 1.4rem; }
 }
 
 /* =====================================================
-   Home: two-column layout (Quarto columns)
+   Home: two-column layout
    ===================================================== */
 
 .home-two-col{ margin-top: 1rem; }
@@ -80,10 +91,9 @@ h3{ font-size: 1.10rem; margin-top: 1.4rem; }
   padding-left: var(--home-right-pad) !important;
 }
 
-/* ✅ Photo sizing happens here */
 .home-avatar{
   width: 100%;
-  max-width: var(--photo-max-desktop); /* ← 桌面端大小 */
+  max-width: var(--photo-max-desktop);
   height: auto;
   display: block;
   border: none;
@@ -102,7 +112,6 @@ h3{ font-size: 1.10rem; margin-top: 1.4rem; }
   margin: 0 0 0.75rem 0;
 }
 
-/* Mobile */
 @media (max-width: 760px){
   .home-two-col.columns{
     gap: 16px !important;
@@ -111,7 +120,7 @@ h3{ font-size: 1.10rem; margin-top: 1.4rem; }
   .home-two-col.columns > .column:last-child{ padding-left: 0 !important; }
 
   .home-avatar{
-    max-width: var(--photo-max-mobile); /* ← 手机端大小 */
+    max-width: var(--photo-max-mobile);
   }
 }
 
@@ -152,7 +161,82 @@ h3{ font-size: 1.10rem; margin-top: 1.4rem; }
   outline-offset: 2px;
 }
 
-/* (Other page styles, kept minimal) */
+/* =====================================================
+   BIG Section divider (between Working Projects and Publications)
+   ===================================================== */
+.section-divider{
+  border: none;
+  border-top: var(--section-divider-width) solid var(--section-divider-color);
+  margin: var(--section-divider-gap-top) 0 var(--section-divider-gap-bottom) 0;
+  opacity: 1;
+}
+
+/* =========================================================
+   Divider between each item (Working Projects/Publications)
+   ========================================================= */
+hr.pub-divider{
+  border: none;
+  border-top: var(--pub-divider-width) solid var(--pub-divider-color);
+  margin: var(--pub-divider-gap) 0 var(--pub-divider-gap) 0;
+  opacity: 1;
+}
+
+/* =====================================================
+   ✅ Abstract toggle (applies to your current <details> ... </details>)
+   ===================================================== */
+details{
+  margin: 10px 0 0 0;
+  padding: 0;
+}
+
+details > summary{
+  cursor: pointer;
+  color: var(--muted);
+  font-size: 0.95rem;
+  list-style: none;
+  user-select: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 2px 0;
+}
+
+/* Hide default marker (Chrome/Safari) */
+details > summary::-webkit-details-marker{
+  display: none;
+}
+
+/* Custom disclosure marker */
+details > summary::before{
+  content: "▸";
+  display: inline-block;
+  transform: translateY(-1px);
+  color: var(--muted);
+}
+
+details[open] > summary::before{
+  content: "▾";
+}
+
+/* Style the abstract body (everything after summary) */
+details > *:not(summary){
+  margin-top: 10px;
+  padding: 10px 12px;
+  border-left: 2px solid #d8d8d8;
+  color: var(--muted);
+  background: rgba(0,0,0,0.02);
+}
+
+/* Keep tidy on small screens */
+@media (max-width: 760px){
+  details > *:not(summary){
+    padding: 10px 10px;
+  }
+}
+
+/* =====================================================
+   Other minimal helpers
+   ===================================================== */
 .card-grid{
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
