@@ -1,4 +1,4 @@
-**GPT Models for Text Annotation: An Empirical Exploration in Public Policy Research** (2025. <span class="pub-journal"><em>Policy Studies Journal (Online first)</em></span>). **with** Alexander Churchill; Shamitha Pichika; Ying Liu.
+**GPT Models for Text Annotation: An Empirical Exploration in Public Policy Research** (2025. <span class="pub-journal"><em>Policy Studies Journal</em></span>). **with** Alexander Churchill; Shamitha Pichika; Ying Liu.
 
 <details class="abstract">
 <summary>Abstract</summary>
