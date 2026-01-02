@@ -1,0 +1,14 @@
+**Evaluating Use of Evidence in U.S. State Governments: A Conjoint Analysis** (2024). <span class="pub-journal"><em>Public Administration Review</em></span>, 85(4), 1217–1235. **with** Yuan (Daniel) Cheng; Shuping Wang; Weston Merrick; Patrick Carter.
+
+<details class="abstract">
+<summary>Abstract</summary>
+<div class="abstract-body">
+Evidence‐based practice (EBP) has become a global movement, yet we know comparatively little about how civil servants evaluate evidence in decision making. We use a conjoint experiment embedded in a multi-state survey of state government employees to examine which features of evidence increase its perceived usefulness. Respondents evaluated short evidence summaries that randomly varied on attributes such as methodological rigor, relevance, timeliness, source credibility, and presentation format. Results show that credibility and relevance substantially shape perceived usefulness, while certain technical features have weaker or heterogeneous effects. The study clarifies what “counts” as evidence for public officials and offers practical lessons for researchers and intermediaries aiming to increase evidence uptake in government.
+</div>
+</details>
+
+<div class="pub-actions">
+  <a class="btn-article" href="https://doi.org/10.1111/puar.13903" target="_blank" rel="noopener noreferrer">Article</a>
+</div>
+
+<hr class="pub-divider">

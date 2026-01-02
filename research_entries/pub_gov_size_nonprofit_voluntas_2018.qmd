@@ -1,0 +1,14 @@
+**Complementary or Supplementary? The Relationship between Government Size and Nonprofit Sector Size** (2018). <span class="pub-journal"><em>VOLUNTAS</em></span>, 29(3), 454–469. **with** Jiahuan Lu.
+
+<details class="abstract">
+<summary>Abstract</summary>
+<div class="abstract-body">
+The relationship between government size and nonprofit sector size is debated: larger governments may either crowd out nonprofits (substitution) or foster nonprofit growth (complementarity). This article examines cross-national evidence on how government scale relates to nonprofit sector size, considering theoretical mechanisms and contextual factors. Findings suggest that government and nonprofit sectors can be complementary in many settings, though relationships vary depending on policy domains and institutional environments. The study contributes to comparative nonprofit research and informs discussions about state–civil society relationships.
+</div>
+</details>
+
+<div class="pub-actions">
+  <a class="btn-article" href="https://link.springer.com/article/10.1007/s11266-018-9981-2" target="_blank" rel="noopener noreferrer">Article</a>
+</div>
+
+<hr class="pub-divider">

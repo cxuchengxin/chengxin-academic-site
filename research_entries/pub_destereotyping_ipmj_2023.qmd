@@ -1,0 +1,14 @@
+**De-stereotyping Public Performance Evaluation** (2023). <span class="pub-journal"><em>International Public Management Journal</em></span>, 26(1), 107–125. **with** Yixin Liu.
+
+<details class="abstract">
+<summary>Abstract</summary>
+<div class="abstract-body">
+Performance information can be interpreted through stereotypes about social groups, potentially biasing public performance evaluation. This study investigates whether and how de-stereotyping interventions affect citizens’ judgments when evaluating performance outcomes linked to stereotyped groups. Using experimental designs, we show that stereotypes can systematically shape perceived performance and support for public organizations. However, providing individuating information or reframing cues can reduce reliance on stereotypes and improve evaluative fairness. The results highlight a psychological mechanism behind biased performance assessment and point to actionable strategies to mitigate inequities in citizen evaluations.
+</div>
+</details>
+
+<div class="pub-actions">
+  <a class="btn-article" href="https://www.tandfonline.com/doi/full/10.1080/10967494.2022.2109786" target="_blank" rel="noopener noreferrer">Article</a>
+</div>
+
+<hr class="pub-divider">

@@ -1,0 +1,14 @@
+**Understanding the Use of Evidence-based Practices by Civil Servants in U.S. State Governments: Current State, Challenges and Pathways Forward** (2024). <span class="pub-journal"><em>Public Administration Review</em></span>, 85(1), 9–20. **with** Yuan (Daniel) Cheng; Leslie Thompson; Shuping Wang; Jules Marzec; Weston Merrick; Patrick Carter.
+
+<details class="abstract">
+<summary>Abstract</summary>
+<div class="abstract-body">
+Leveraging a three-state survey of 323 civil servants, this study examines the current state of evidence-based practice (EBP) use in state governments, identifies common barriers, and considers pathways for strengthening evidence use. We document patterns of evidence engagement across agencies and roles, highlighting constraints such as limited time, misalignment between available evidence and policy needs, and organizational factors that shape access and incentives. We also explore how training, leadership support, and institutional infrastructure relate to evidence use. Findings inform ongoing efforts to build evidence-informed policymaking capacity and suggest concrete strategies for improving the supply, accessibility, and applicability of evidence in state government contexts.
+</div>
+</details>
+
+<div class="pub-actions">
+  <a class="btn-article" href="https://doi.org/10.1111/puar.13878" target="_blank" rel="noopener noreferrer">Article</a>
+</div>
+
+<hr class="pub-divider">

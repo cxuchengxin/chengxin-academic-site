@@ -1,0 +1,15 @@
+**GPT Models for Text Annotation: An Empirical Exploration in Public Policy Research** (2025. <span class="pub-journal"><em>Policy Studies Journal (Online first)</em></span>). **with** Alexander Churchill; Shamitha Pichika; Ying Liu.
+
+<details class="abstract">
+<summary>Abstract</summary>
+
+<div class="abstract-body">
+Text annotation, the practice of labeling text following a predetermined scheme, is essential to qualitative public policy research. Despite its importance, annotating large qualitative data faces challenges of high labor and time costs. Recent developments in large language models (LLMs), specifically models with generative pretrained transformers (GPTs), show a potential approach that may alleviate the burden of manual text annotation. In this report, we first introduce a small sample pretest strategy for researchers to decide whether to use Open AI's GPT models for text annotation. In addition, we test if GPT models can substitute human coders by comparing the results of two GPT models with different prompting strategies against human annotation. Using email messages collected from a national corresponding experiment in the US nursing home market as an example, on average, we demonstrate 86.25% percentage agreement between GPT and human annotations. We also show that GPT models possess context-based limitations. Our report ends with reflections and suggestions for readers who are interested in using GPT models for text annotation.</div>
+
+</details>
+
+<div class="pub-actions">
+  <a class="btn-article" href="https://doi.org/10.1111/psj.70034" target="_blank" rel="noopener noreferrer">Article</a>
+</div>
+
+<hr class="pub-divider">

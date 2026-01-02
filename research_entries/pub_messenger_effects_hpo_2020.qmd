@@ -1,0 +1,14 @@
+**Messenger Effects in COVID-19 Communication: Does the Level of Government Matter?** (2020). <span class="pub-journal"><em>Health Policy OPEN</em></span>, 100027. **with** Nathan Favero; Sebastian Jilke; Julia A. Wolfson; Matthew Young.
+
+<details class="abstract">
+<summary>Abstract</summary>
+<div class="abstract-body">
+Effective crisis communication can depend not only on message content but also on who delivers the message. This study examines messenger effects in COVID-19 communication, focusing on whether the level of government (local, state, federal) influences public responses. Using survey experiments, we test how messenger cues shape trust, perceived credibility, and behavioral intentions. Results indicate that messenger effects vary across contexts and may interact with political attitudes. The findings inform public health communication strategies and highlight the importance of messenger selection in emergency messaging.
+</div>
+</details>
+
+<div class="pub-actions">
+  <a class="btn-article" href="https://www.sciencedirect.com/science/article/pii/S2590229620300253" target="_blank" rel="noopener noreferrer">Article</a>
+</div>
+
+<hr class="pub-divider">

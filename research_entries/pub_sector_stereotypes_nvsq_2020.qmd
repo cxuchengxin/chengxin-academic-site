@@ -1,0 +1,14 @@
+**The Perceived Differences: The Sector Stereotypes of Social Service Providers** (2020). <span class="pub-journal"><em>Nonprofit and Voluntary Sector Quarterly</em></span>, 49(6), 1293–1310.
+
+<details class="abstract">
+<summary>Abstract</summary>
+<div class="abstract-body">
+Sector stereotypes can shape how people perceive social service providers and evaluate their performance, even when services are similar. This article examines stereotypes about nonprofit versus government providers and how such perceptions influence judgments. Using experimental designs, we show that sector labels can trigger systematic expectations about compassion, efficiency, and trustworthiness. These stereotypes affect support and evaluations of service outcomes. The study advances understanding of how sector identities influence public opinion and has implications for service branding, contracting, and accountability.
+</div>
+</details>
+
+<div class="pub-actions">
+  <a class="btn-article" href="https://journals.sagepub.com/doi/abs/10.1177/0899764020925903" target="_blank" rel="noopener noreferrer">Article</a>
+</div>
+
+<hr class="pub-divider">

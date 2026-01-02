@@ -10,550 +10,87 @@ title: "Research"
 
 ### Working Projects
 
-**Race in the Inbox: Peer Benchmarking Reduces Disparity in Agenda Access; Pressure Frame Backfires**. **with** Danyao Li; Yixin Liu; Huimin Zheng.
-
-<details>
-<summary>Abstract</summary>
-
-[Abstract placeholder]
-
-</details>
-
-<hr class="pub-divider">
-
-**For-Profit Fundraisers Make Nonprofits Market-Focused in Donors’ Eyes**. **with** Kenneth Meier.
-
-<details>
-<summary>Abstract</summary>
-
-[Abstract placeholder]
-
-</details>
-
-<hr class="pub-divider">
-
-**Bureaucratic Responsiveness, Immigrants, and Environmental Justice: Evidence from an Experimental Study**. **with** Jiaqi Liang; Zhengyan Li.
-
-<details>
-<summary>Abstract</summary>
-
-[Abstract placeholder]
-
-</details>
-
-<hr class="pub-divider">
-
-**The Cost of Service and Street-level Bureaucrats' Coping Strategy: A Field Experiment**. **with** Jiaqi Liang; Sanghee Park.
-
-<details>
-<summary>Abstract</summary>
-
-[Abstract placeholder]
-
-</details>
-
-<hr class="pub-divider">
-
-**Relieving Administrative Burdens for Nonprofit Service Providers in the Governmental Grantmaking Process: A Research-Practice Partnership**. **with** Yuan (Daniel) Cheng; Weston Merrick; Patrick Carter; Kari Aanestad.
-
-<details>
-<summary>Abstract</summary>
-
-[Abstract placeholder]
-
-</details>
-
-<hr class="pub-divider">
-
-**Understanding Diverse Knowledge Used in Civil Servants' Decision Making** (Finalizing). **with** Shuping Wang; Yuan-Daniel Cheng; Patrick Carter; Weston Merrick.
-
-<details>
-<summary>Abstract</summary>
-
-[Abstract placeholder]
-
-</details>
-
-<hr class="pub-divider">
-
+{{< include research_entries/wp_public_pressure.qmd >}}
+{{< include research_entries/wp_forprofit_fundraisers.qmd >}}
+{{< include research_entries/wp_superfund_language.qmd >}}
+{{< include research_entries/wp_cost_of_service.qmd >}}
+{{< include research_entries/wp_inclusive_grantmaking_mn.qmd >}}
+{{< include research_entries/wp_decision_roles_knowledge.qmd >}}
 
 <hr class="section-divider">
 
 ### Publications
 
-**GPT Models for Text Annotation: An Empirical Exploration in Public Policy Research** (2025. *Policy Studies Journal (Online first)*). **with** Alexander Churchill; Shamitha Pichika; Ying Liu.
-
-<details>
-<summary>Abstract</summary>
-
-Text annotation, the practice of labeling text following a predetermined scheme, is essential to public policy research but often requires significant time and labor. Recent advances in generative pre-trained transformers (GPTs) show a potential approach that may alleviate these burdens. This study offers an empirical evaluation of GPT models for text annotation in public policy research, focusing on accuracy, reliability, and cost-effectiveness. Using a large hand-labeled dataset and multiple annotation tasks, we compare GPT-based annotations with human-coded benchmarks and assess how prompt design, model choice, and task complexity affect performance. We find that GPT models can achieve high accuracy for many common annotation tasks, though performance varies across labels and contexts. We discuss practical guidance for researchers on when and how to use GPT models for annotation, including recommended workflows and transparency practices.
-
-</details>
-
-<hr class="pub-divider">
-
-**Information Cost and Charitable Giving** (2025. *Nonprofit and Voluntary Sector Quarterly (Online first)*). **with** George Mitchell; Huafang Li.
-
-<details>
-<summary>Abstract</summary>
-
-Donors may be unwilling to acquire information about nonprofit performance when doing so is costly, potentially limiting charitable giving and weakening incentives for nonprofit accountability. This article examines how information costs shape donation decisions and evaluates whether reducing those costs increases giving. Using experimental evidence, we show that when performance information is easy to obtain, donors are more likely to consider it and adjust their giving accordingly. Conversely, higher information costs reduce attention to performance signals and attenuate responsiveness. We discuss implications for nonprofit transparency, information intermediaries, and fundraising strategies that lower donors’ search and processing burdens.
-
-</details>
-
-<hr class="pub-divider">
-
-**No Country for Model Minorities: Evidence of Discrimination Against Asian Noncitizen Immigrants in the U.S. Nursing Home Market** (2025. *Public Administration Review, 85(5), 1347–1364*). **with** Danbee Lee.
-
-<details>
-<summary>Abstract</summary>
-
-Although public administration scholars have long been concerned about equity in public service delivery, evidence on discrimination against Asian noncitizen immigrants remains limited. Drawing on theories of social categorization and intergroup bias, this study tests whether nursing homes discriminate against Asian noncitizen applicants. We conduct a correspondence experiment in which inquiries from prospective residents vary by implied race/ethnicity and citizenship status. Results show that Asian noncitizen immigrants receive fewer and less helpful responses than comparable applicants, indicating discrimination in access to long-term care information. The findings highlight an overlooked dimension of inequity and suggest the need for oversight and policy interventions to ensure fair access to care.
-
-</details>
-
-<hr class="pub-divider">
-
-**Evaluating Use of Evidence in U.S. State Governments: A Conjoint Analysis** (2024. *Public Administration Review, 85(4), 1217–1235*). **with** Yuan (Daniel) Cheng; Shuping Wang; Weston Merrick; Patrick Carter.
-
-<details>
-<summary>Abstract</summary>
-
-Evidence‐based practice (EBP) has become a global movement, yet we know comparatively little about how civil servants evaluate evidence in decision making. We use a conjoint experiment embedded in a multi-state survey of state government employees to examine which features of evidence increase its perceived usefulness. Respondents evaluated short evidence summaries that randomly varied on attributes such as methodological rigor, relevance, timeliness, source credibility, and presentation format. Results show that credibility and relevance substantially shape perceived usefulness, while certain technical features have weaker or heterogeneous effects. The study clarifies what “counts” as evidence for public officials and offers practical lessons for researchers and intermediaries aiming to increase evidence uptake in government.
-
-</details>
-
-<hr class="pub-divider">
-
-**Understanding the Use of Evidence-based Practices by Civil Servants in U.S. State Governments: Current State, Challenges and Pathways Forward** (2024. *Public Administration Review, 85(1), 9–20*). **with** Yuan (Daniel) Cheng; Leslie Thompson; Shuping Wang; Jules Marzec; Weston Merrick; Patrick Carter.
-
-<details>
-<summary>Abstract</summary>
-
-Leveraging a three-state survey of 323 civil servants, this study examines the current state of evidence-based practice (EBP) use in state governments, identifies common barriers, and considers pathways for strengthening evidence use. We document patterns of evidence engagement across agencies and roles, highlighting constraints such as limited time, misalignment between available evidence and policy needs, and organizational factors that shape access and incentives. We also explore how training, leadership support, and institutional infrastructure relate to evidence use. Findings inform ongoing efforts to build evidence-informed policymaking capacity and suggest concrete strategies for improving the supply, accessibility, and applicability of evidence in state government contexts.
-
-</details>
-
-<hr class="pub-divider">
-
-**Communal-Focused or Market-Focused: Moral Judgment on Business Practices in Nonprofit Organizations** (2023. *Nonprofit Management and Leadership, 34(3), 629–655*).
-
-<details>
-<summary>Abstract</summary>
-
-Nonprofit organizations increasingly adopt business practices, yet such practices may elicit moral concerns because nonprofits are expected to prioritize communal goals. This study examines how observers morally judge nonprofit business practices and whether judgments depend on whether practices signal communal focus or market focus. Using survey experiments, we show that market-focused cues trigger stronger moral disapproval and reduce perceived legitimacy relative to communal-focused cues. The findings illuminate a moral dimension of nonprofit hybridity and suggest that how nonprofits communicate and frame business practices can shape stakeholder evaluations.
-
-</details>
-
-<hr class="pub-divider">
-
-**De-stereotyping Public Performance Evaluation** (2023. *International Public Management Journal, 26(1), 107–125*). **with** Yixin Liu.
-
-<details>
-<summary>Abstract</summary>
-
-Performance information can be interpreted through stereotypes about social groups, potentially biasing public performance evaluation. This study investigates whether and how de-stereotyping interventions affect citizens’ judgments when evaluating performance outcomes linked to stereotyped groups. Using experimental designs, we show that stereotypes can systematically shape perceived performance and support for public organizations. However, providing individuating information or reframing cues can reduce reliance on stereotypes and improve evaluative fairness. The results highlight a psychological mechanism behind biased performance assessment and point to actionable strategies to mitigate inequities in citizen evaluations.
-
-</details>
-
-<hr class="pub-divider">
-
-**Everything hacked? What is the Evidential Value of the Experimental Public Administration Literature?** (2021. *Journal of Behavioral Public Administration, 4(2), 1–17*). **with** Dominik Vogel.
-
-<details>
-<summary>Abstract</summary>
-
-Concerns about publication bias and questionable research practices have raised questions about the credibility of experimental findings across disciplines. This article evaluates the evidential value of the experimental public administration literature using statistical tools designed to detect selective reporting and assess robustness. We analyze published experiments and examine patterns of reported p-values and effect sizes. The results suggest that while many studies provide evidential value, there are also signs consistent with selective reporting in some areas. We discuss implications for research transparency and propose practices to strengthen the reliability and cumulative progress of experimental public administration research.
-
-</details>
-
-<hr class="pub-divider">
-
-**Does Mislabeling COVID-19 Elicit the Perception of Threat and Reduce Blame?** (2021. *Journal of Behavioral Public Administration, 4(2), 1–13*). **with** Yixin Liu.
-
-<details>
-<summary>Abstract</summary>
-
-Political and media actors sometimes use labels for infectious diseases that emphasize geographic or ethnic associations. This study examines whether mislabeling COVID-19 influences perceived threat and attribution of blame. Using experimental survey evidence, we test how different disease labels affect attitudes toward groups associated with the label, threat perceptions, and policy preferences. Findings show that mislabeling can increase perceived threat and alter blame dynamics, with implications for social cohesion and crisis communication. The study contributes to understanding how language shapes public reactions during public health emergencies.
-
-</details>
-
-<hr class="pub-divider">
-
-**Resource Publicness Matters in Organizational Perceptions** (2021. *Public Administration Review, 82(2), 338–353*). **with** Huafang Li.
-
-<details>
-<summary>Abstract</summary>
-
-Public, nonprofit, and private organizations often rely on different combinations of funding sources, which may shape how stakeholders perceive them. This study develops and tests the concept of resource publicness and examines how funding composition influences organizational perceptions. Using experimental evidence, we show that higher resource publicness affects perceptions of legitimacy, accountability, and mission orientation. The findings advance theories of sector distinctions and provide insight into how organizations can manage stakeholder expectations through financial transparency and communication.
-
-</details>
-
-<hr class="pub-divider">
-
-**Unpacking Nonprofit Autonomy-Interdependence Paradox in Collaborative Relationships** (2021. *American Review of Public Administration, 51(4), 308–324*). **with** Mirae Kim.
-
-<details>
-<summary>Abstract</summary>
-
-Nonprofits frequently collaborate with governments and other partners, gaining resources while risking reduced autonomy. This article examines the autonomy–interdependence paradox in nonprofit collaborative relationships and identifies conditions under which collaboration undermines or supports nonprofit autonomy. Using empirical analyses, we show that different forms of dependence and governance arrangements can have distinct effects. The findings offer a nuanced understanding of collaboration tradeoffs and provide guidance for designing partnerships that balance resource benefits with nonprofit independence.
-
-</details>
-
-<hr class="pub-divider">
-
-**Messenger Effects in COVID-19 Communication: Does the Level of Government Matter?** (2020. *Health Policy OPEN, 100027*). **with** Nathan Favero; Sebastian Jilke; Julia A. Wolfson; Matthew Young.
-
-<details>
-<summary>Abstract</summary>
-
-Effective crisis communication can depend not only on message content but also on who delivers the message. This study examines messenger effects in COVID-19 communication, focusing on whether the level of government (local, state, federal) influences public responses. Using survey experiments, we test how messenger cues shape trust, perceived credibility, and behavioral intentions. Results indicate that messenger effects vary across contexts and may interact with political attitudes. The findings inform public health communication strategies and highlight the importance of messenger selection in emergency messaging.
-
-</details>
-
-<hr class="pub-divider">
-
-**The Perceived Differences: The Sector Stereotypes of Social Service Providers** (2020. *Nonprofit and Voluntary Sector Quarterly, 49(6), 1293–1310*).
-
-<details>
-<summary>Abstract</summary>
-
-Sector stereotypes can shape how people perceive social service providers and evaluate their performance, even when services are similar. This article examines stereotypes about nonprofit versus government providers and how such perceptions influence judgments. Using experimental designs, we show that sector labels can trigger systematic expectations about compassion, efficiency, and trustworthiness. These stereotypes affect support and evaluations of service outcomes. The study advances understanding of how sector identities influence public opinion and has implications for service branding, contracting, and accountability.
-
-</details>
-
-<hr class="pub-divider">
-
-**Philanthropy Can Be Learned: A Qualitative Study of Student Experiences in Experiential Philanthropy Courses** (2019. *Philanthropy and Education, 2(2), 29–52*). **with** Huafang Li; Lindsey McDougle.
-
-<details>
-<summary>Abstract</summary>
-
-Experiential philanthropy courses aim to teach students about philanthropy by involving them in real grantmaking decisions. This qualitative study examines student experiences in such courses and identifies learning outcomes and challenges. Findings suggest that students develop increased understanding of nonprofit work, donor decision making, and community needs, while also encountering tensions related to values, evidence, and accountability. The study offers insights for designing experiential philanthropy pedagogy and contributes to broader conversations about civic learning and philanthropic education.
-
-</details>
-
-<hr class="pub-divider">
-
-**Using Large Scale Social Media Experiments in Public Administration: Assessing Charitable Consequences of Government Funding to Nonprofits** (2019. *Journal of Public Administration Research and Theory, 29(4), 627–639*). **with** Sebastian Jilke; Jiahuan Lu; Shugo Shinohara.
-
-<details>
-<summary>Abstract</summary>
-
-Government funding can influence public perceptions of nonprofits and potentially affect private donations. This study uses large-scale social media experiments to examine how information about government funding to nonprofits shapes charitable behavior. We test messaging interventions and measure donation-related outcomes, assessing whether government support crowds out or crowds in private giving. Results indicate that funding cues can have meaningful effects, depending on framing and audience characteristics. The study demonstrates the promise of social media experiments for public administration research and provides evidence on the charitable consequences of government–nonprofit financial relationships.
-
-</details>
-
-<hr class="pub-divider">
-
-**Complementary or Supplementary? The Relationship between Government Size and Nonprofit Sector Size** (2018. *VOLUNTAS, 29(3), 454–469*). **with** Jiahuan Lu.
-
-<details>
-<summary>Abstract</summary>
-
-The relationship between government size and nonprofit sector size is debated: larger governments may either crowd out nonprofits (substitution) or foster nonprofit growth (complementarity). This article examines cross-national evidence on how government scale relates to nonprofit sector size, considering theoretical mechanisms and contextual factors. Findings suggest that government and nonprofit sectors can be complementary in many settings, though relationships vary depending on policy domains and institutional environments. The study contributes to comparative nonprofit research and informs discussions about state–civil society relationships.
-
-</details>
-
-<hr class="pub-divider">
-
-**Can Philanthropy be Taught?** (2017. *Nonprofit and Voluntary Sector Quarterly, 46(2), 330–351*). **with** Lindsey McDougle; D. McDonald; W. McIntyre Miller; Huafang Li.
-
-<details>
-<summary>Abstract</summary>
-
-Interest in teaching philanthropy has grown, but evidence about whether and how philanthropic attitudes and behaviors can be shaped through education is limited. This article examines experiential philanthropy courses and evaluates whether participation influences students’ philanthropic knowledge, attitudes, and intentions. Using empirical data, we find that experiential approaches can improve understanding and engagement, though effects vary across student groups and course designs. The study provides evidence that philanthropy can be taught and offers recommendations for philanthropic education and civic engagement pedagogy.
-
-</details>
-
+{{< include research_entries/pub_gpt_annotation_psj_2025.qmd >}}
+{{< include research_entries/pub_info_cost_nvsq_2025.qmd >}}
+{{< include research_entries/pub_no_country_par_2025.qmd >}}
+{{< include research_entries/pub_conjoint_evidence_par_2024.qmd >}}
+{{< include research_entries/pub_ebp_state_par_2024.qmd >}}
+{{< include research_entries/pub_moral_judgment_nml_2023.qmd >}}
+{{< include research_entries/pub_destereotyping_ipmj_2023.qmd >}}
+{{< include research_entries/pub_evidential_value_jbpa_2021.qmd >}}
+{{< include research_entries/pub_mislabeling_covid_jbpa_2021.qmd >}}
+{{< include research_entries/pub_resource_publicness_par_2021.qmd >}}
+{{< include research_entries/pub_autonomy_interdependence_arpa_2021.qmd >}}
+{{< include research_entries/pub_messenger_effects_hpo_2020.qmd >}}
+{{< include research_entries/pub_sector_stereotypes_nvsq_2020.qmd >}}
+{{< include research_entries/pub_philanthropy_learned_pe_2019.qmd >}}
+{{< include research_entries/pub_social_media_experiment_jpart_2019.qmd >}}
+{{< include research_entries/pub_gov_size_nonprofit_voluntas_2018.qmd >}}
+{{< include research_entries/pub_can_philanthropy_be_taught_nvsq_2017.qmd >}}
 
 ## Government Decision Making
 
 ### Working Projects
 
-**Race in the Inbox: Peer Benchmarking Reduces Disparity in Agenda Access; Pressure Frame Backfires**. **with** Danyao Li; Yixin Liu; Huimin Zheng.
-
-<details>
-<summary>Abstract</summary>
-
-[Abstract placeholder]
-
-</details>
-
-<hr class="pub-divider">
-
-**Bureaucratic Responsiveness, Immigrants, and Environmental Justice: Evidence from an Experimental Study**. **with** Jiaqi Liang; Zhengyan Li.
-
-<details>
-<summary>Abstract</summary>
-
-[Abstract placeholder]
-
-</details>
-
-<hr class="pub-divider">
-
-**The Cost of Service and Street-level Bureaucrats' Coping Strategy: A Field Experiment**. **with** Jiaqi Liang; Sanghee Park.
-
-<details>
-<summary>Abstract</summary>
-
-[Abstract placeholder]
-
-</details>
-
-<hr class="pub-divider">
-
-**Relieving Administrative Burdens for Nonprofit Service Providers in the Governmental Grantmaking Process: A Research-Practice Partnership**. **with** Yuan (Daniel) Cheng; Weston Merrick; Patrick Carter; Kari Aanestad.
-
-<details>
-<summary>Abstract</summary>
-
-[Abstract placeholder]
-
-</details>
-
-<hr class="pub-divider">
-
-**Understanding Diverse Knowledge Used in Civil Servants' Decision Making**. **with** Shuping Wang; Yuan-Daniel Cheng; Patrick Carter; Weston Merrick.
-
-<details>
-<summary>Abstract</summary>
-
-[Abstract placeholder]
-
-</details>
+{{< include research_entries/wp_public_pressure.qmd >}}
+{{< include research_entries/wp_superfund_language.qmd >}}
+{{< include research_entries/wp_cost_of_service.qmd >}}
+{{< include research_entries/wp_inclusive_grantmaking_mn.qmd >}}
+{{< include research_entries/wp_decision_roles_knowledge.qmd >}}
 
 <hr class="section-divider">
 
 ### Publications
 
-**No Country for Model Minorities: Evidence of Discrimination Against Asian Noncitizen Immigrants in the U.S. Nursing Home Market** (2025. *Public Administration Review, 85(5), 1347–1364*). **with** Danbee Lee.
-
-<details>
-<summary>Abstract</summary>
-
-Although public administration scholars have long been concerned about equity in public service delivery, evidence on discrimination against Asian noncitizen immigrants remains limited. Drawing on theories of social categorization and intergroup bias, this study tests whether nursing homes discriminate against Asian noncitizen applicants. We conduct a correspondence experiment in which inquiries from prospective residents vary by implied race/ethnicity and citizenship status. Results show that Asian noncitizen immigrants receive fewer and less helpful responses than comparable applicants, indicating discrimination in access to long-term care information. The findings highlight an overlooked dimension of inequity and suggest the need for oversight and policy interventions to ensure fair access to care.
-
-</details>
-
-<hr class="pub-divider">
-
-**Evaluating Use of Evidence in U.S. State Governments: A Conjoint Analysis** (2024. *Public Administration Review, 85(4), 1217–1235*). **with** Yuan (Daniel) Cheng; Shuping Wang; Weston Merrick; Patrick Carter.
-
-<details>
-<summary>Abstract</summary>
-
-Evidence‐based practice (EBP) has become a global movement, yet we know comparatively little about how civil servants evaluate evidence in decision making. We use a conjoint experiment embedded in a multi-state survey of state government employees to examine which features of evidence increase its perceived usefulness. Respondents evaluated short evidence summaries that randomly varied on attributes such as methodological rigor, relevance, timeliness, source credibility, and presentation format. Results show that credibility and relevance substantially shape perceived usefulness, while certain technical features have weaker or heterogeneous effects. The study clarifies what “counts” as evidence for public officials and offers practical lessons for researchers and intermediaries aiming to increase evidence uptake in government.
-
-</details>
-
-<hr class="pub-divider">
-
-**Understanding the Use of Evidence-based Practices by Civil Servants in U.S. State Governments: Current State, Challenges and Pathways Forward** (2024. *Public Administration Review, 85(1), 9–20*). **with** Yuan (Daniel) Cheng; Leslie Thompson; Shuping Wang; Jules Marzec; Weston Merrick; Patrick Carter.
-
-<details>
-<summary>Abstract</summary>
-
-Leveraging a three-state survey of 323 civil servants, this study examines the current state of evidence-based practice (EBP) use in state governments, identifies common barriers, and considers pathways for strengthening evidence use. We document patterns of evidence engagement across agencies and roles, highlighting constraints such as limited time, misalignment between available evidence and policy needs, and organizational factors that shape access and incentives. We also explore how training, leadership support, and institutional infrastructure relate to evidence use. Findings inform ongoing efforts to build evidence-informed policymaking capacity and suggest concrete strategies for improving the supply, accessibility, and applicability of evidence in state government contexts.
-
-</details>
-
-<hr class="pub-divider">
-
-**Does Mislabeling COVID-19 Elicit the Perception of Threat and Reduce Blame?** (2021. *Journal of Behavioral Public Administration, 4(2), 1–13*). **with** Yixin Liu.
-
-<details>
-<summary>Abstract</summary>
-
-Political and media actors sometimes use labels for infectious diseases that emphasize geographic or ethnic associations. This study examines whether mislabeling COVID-19 influences perceived threat and attribution of blame. Using experimental survey evidence, we test how different disease labels affect attitudes toward groups associated with the label, threat perceptions, and policy preferences. Findings show that mislabeling can increase perceived threat and alter blame dynamics, with implications for social cohesion and crisis communication. The study contributes to understanding how language shapes public reactions during public health emergencies.
-
-</details>
-
-<hr class="pub-divider">
-
-**Resource Publicness Matters in Organizational Perceptions** (2021. *Public Administration Review, 82(2), 338–353*). **with** Huafang Li.
-
-<details>
-<summary>Abstract</summary>
-
-Public, nonprofit, and private organizations often rely on different combinations of funding sources, which may shape how stakeholders perceive them. This study develops and tests the concept of resource publicness and examines how funding composition influences organizational perceptions. Using experimental evidence, we show that higher resource publicness affects perceptions of legitimacy, accountability, and mission orientation. The findings advance theories of sector distinctions and provide insight into how organizations can manage stakeholder expectations through financial transparency and communication.
-
-</details>
-
-<hr class="pub-divider">
-
-**Messenger Effects in COVID-19 Communication: Does the Level of Government Matter?** (2020. *Health Policy OPEN, 100027*). **with** Nathan Favero; Sebastian Jilke; Julia A. Wolfson; Matthew Young.
-
-<details>
-<summary>Abstract</summary>
-
-Effective crisis communication can depend not only on message content but also on who delivers the message. This study examines messenger effects in COVID-19 communication, focusing on whether the level of government (local, state, federal) influences public responses. Using survey experiments, we test how messenger cues shape trust, perceived credibility, and behavioral intentions. Results indicate that messenger effects vary across contexts and may interact with political attitudes. The findings inform public health communication strategies and highlight the importance of messenger selection in emergency messaging.
-
-</details>
-
+{{< include research_entries/pub_no_country_par_2025.qmd >}}
+{{< include research_entries/pub_conjoint_evidence_par_2024.qmd >}}
+{{< include research_entries/pub_ebp_state_par_2024.qmd >}}
+{{< include research_entries/pub_mislabeling_covid_jbpa_2021.qmd >}}
+{{< include research_entries/pub_resource_publicness_par_2021.qmd >}}
+{{< include research_entries/pub_messenger_effects_hpo_2020.qmd >}}
 
 ## Nonprofit Management
 
 ### Working Projects
 
-**For-Profit Fundraisers Make Nonprofits Market-Focused in Donors’ Eyes** (Revise and Resubmit at *Nonprofit and Voluntary Sector Quarterly*). **with** Kenneth Meier.
-
-<details>
-<summary>Abstract</summary>
-
-[Abstract placeholder]
-
-</details>
-
-<hr class="pub-divider">
-
-**How does Commercial Incomes Crowd-out Private Donations?** (Finalizing). **with** ChiaKo Hung; Huafang Li.
-
-<details>
-<summary>Abstract</summary>
-
-[Abstract placeholder]
-
-</details>
+{{< include research_entries/wp_forprofit_fundraisers.qmd >}}
 
 <hr class="section-divider">
 
 ### Publications
 
-**Information Cost and Charitable Giving** (2025. *Nonprofit and Voluntary Sector Quarterly (Online first)*). **with** George Mitchell; Huafang Li.
-
-<details>
-<summary>Abstract</summary>
-
-Donors may be unwilling to acquire information about nonprofit performance when doing so is costly, potentially limiting charitable giving and weakening incentives for nonprofit accountability. This article examines how information costs shape donation decisions and evaluates whether reducing those costs increases giving. Using experimental evidence, we show that when performance information is easy to obtain, donors are more likely to consider it and adjust their giving accordingly. Conversely, higher information costs reduce attention to performance signals and attenuate responsiveness. We discuss implications for nonprofit transparency, information intermediaries, and fundraising strategies that lower donors’ search and processing burdens.
-
-</details>
-
-<hr class="pub-divider">
-
-**Communal-Focused or Market-Focused: Moral Judgment on Business Practices in Nonprofit Organizations** (2023. *Nonprofit Management and Leadership, 34(3), 629–655*).
-
-<details>
-<summary>Abstract</summary>
-
-Nonprofit organizations increasingly adopt business practices, yet such practices may elicit moral concerns because nonprofits are expected to prioritize communal goals. This study examines how observers morally judge nonprofit business practices and whether judgments depend on whether practices signal communal focus or market focus. Using survey experiments, we show that market-focused cues trigger stronger moral disapproval and reduce perceived legitimacy relative to communal-focused cues. The findings illuminate a moral dimension of nonprofit hybridity and suggest that how nonprofits communicate and frame business practices can shape stakeholder evaluations.
-
-</details>
-
-<hr class="pub-divider">
-
-**Unpacking Nonprofit Autonomy-Interdependence Paradox in Collaborative Relationships** (2021. *American Review of Public Administration, 51(4), 308–324*). **with** Mirae Kim.
-
-<details>
-<summary>Abstract</summary>
-
-Nonprofits frequently collaborate with governments and other partners, gaining resources while risking reduced autonomy. This article examines the autonomy–interdependence paradox in nonprofit collaborative relationships and identifies conditions under which collaboration undermines or supports nonprofit autonomy. Using empirical analyses, we show that different forms of dependence and governance arrangements can have distinct effects. The findings offer a nuanced understanding of collaboration tradeoffs and provide guidance for designing partnerships that balance resource benefits with nonprofit independence.
-
-</details>
-
-<hr class="pub-divider">
-
-**The Perceived Differences: The Sector Stereotypes of Social Service Providers** (2020. *Nonprofit and Voluntary Sector Quarterly, 49(6), 1293–1310*).
-
-<details>
-<summary>Abstract</summary>
-
-Sector stereotypes can shape how people perceive social service providers and evaluate their performance, even when services are similar. This article examines stereotypes about nonprofit versus government providers and how such perceptions influence judgments. Using experimental designs, we show that sector labels can trigger systematic expectations about compassion, efficiency, and trustworthiness. These stereotypes affect support and evaluations of service outcomes. The study advances understanding of how sector identities influence public opinion and has implications for service branding, contracting, and accountability.
-
-</details>
-
-<hr class="pub-divider">
-
-**Philanthropy Can Be Learned: A Qualitative Study of Student Experiences in Experiential Philanthropy Courses** (2019. *Philanthropy and Education, 2(2), 29–52*). **with** Huafang Li; Lindsey McDougle.
-
-<details>
-<summary>Abstract</summary>
-
-Experiential philanthropy courses aim to teach students about philanthropy by involving them in real grantmaking decisions. This qualitative study examines student experiences in such courses and identifies learning outcomes and challenges. Findings suggest that students develop increased understanding of nonprofit work, donor decision making, and community needs, while also encountering tensions related to values, evidence, and accountability. The study offers insights for designing experiential philanthropy pedagogy and contributes to broader conversations about civic learning and philanthropic education.
-
-</details>
-
-<hr class="pub-divider">
-
-**Using Large Scale Social Media Experiments in Public Administration: Assessing Charitable Consequences of Government Funding to Nonprofits** (2019. *Journal of Public Administration Research and Theory, 29(4), 627–639*). **with** Sebastian Jilke; Jiahuan Lu; Shugo Shinohara.
-
-<details>
-<summary>Abstract</summary>
-
-Government funding can influence public perceptions of nonprofits and potentially affect private donations. This study uses large-scale social media experiments to examine how information about government funding to nonprofits shapes charitable behavior. We test messaging interventions and measure donation-related outcomes, assessing whether government support crowds out or crowds in private giving. Results indicate that funding cues can have meaningful effects, depending on framing and audience characteristics. The study demonstrates the promise of social media experiments for public administration research and provides evidence on the charitable consequences of government–nonprofit financial relationships.
-
-</details>
-
-<hr class="pub-divider">
-
-**Complementary or Supplementary? The Relationship between Government Size and Nonprofit Sector Size** (2018. *VOLUNTAS, 29(3), 454–469*). **with** Jiahuan Lu.
-
-<details>
-<summary>Abstract</summary>
-
-The relationship between government size and nonprofit sector size is debated: larger governments may either crowd out nonprofits (substitution) or foster nonprofit growth (complementarity). This article examines cross-national evidence on how government scale relates to nonprofit sector size, considering theoretical mechanisms and contextual factors. Findings suggest that government and nonprofit sectors can be complementary in many settings, though relationships vary depending on policy domains and institutional environments. The study contributes to comparative nonprofit research and informs discussions about state–civil society relationships.
-
-</details>
-
-<hr class="pub-divider">
-
-**Can Philanthropy be Taught?** (2017. *Nonprofit and Voluntary Sector Quarterly, 46(2), 330–351*). **with** Lindsey McDougle; D. McDonald; W. McIntyre Miller; Huafang Li.
-
-<details>
-<summary>Abstract</summary>
-
-Interest in teaching philanthropy has grown, but evidence about whether and how philanthropic attitudes and behaviors can be shaped through education is limited. This article examines experiential philanthropy courses and evaluates whether participation influences students’ philanthropic knowledge, attitudes, and intentions. Using empirical data, we find that experiential approaches can improve understanding and engagement, though effects vary across student groups and course designs. The study provides evidence that philanthropy can be taught and offers recommendations for philanthropic education and civic engagement pedagogy.
-
-</details>
-
+{{< include research_entries/pub_info_cost_nvsq_2025.qmd >}}
+{{< include research_entries/pub_moral_judgment_nml_2023.qmd >}}
+{{< include research_entries/pub_autonomy_interdependence_arpa_2021.qmd >}}
+{{< include research_entries/pub_sector_stereotypes_nvsq_2020.qmd >}}
+{{< include research_entries/pub_philanthropy_learned_pe_2019.qmd >}}
+{{< include research_entries/pub_social_media_experiment_jpart_2019.qmd >}}
+{{< include research_entries/pub_gov_size_nonprofit_voluntas_2018.qmd >}}
+{{< include research_entries/pub_can_philanthropy_be_taught_nvsq_2017.qmd >}}
 
 ## Method
 
 ### Working Projects
 
-**Understanding Diverse Knowledge Used in Civil Servants' Decision Making** (Finalizing). **with** Shuping Wang; Yuan-Daniel Cheng; Patrick Carter; Weston Merrick.
-
-<details>
-<summary>Abstract</summary>
-
-[Abstract placeholder]
-
-</details>
+{{< include research_entries/wp_decision_roles_knowledge.qmd >}}
 
 <hr class="section-divider">
 
 ### Publications
 
-**GPT Models for Text Annotation: An Empirical Exploration in Public Policy Research** (2025. *Policy Studies Journal (Online first)*). **with** Alexander Churchill; Shamitha Pichika; Ying Liu.
-
-<details>
-<summary>Abstract</summary>
-
-Text annotation, the practice of labeling text following a predetermined scheme, is essential to public policy research but often requires significant time and labor. Recent advances in generative pre-trained transformers (GPTs) show a potential approach that may alleviate these burdens. This study offers an empirical evaluation of GPT models for text annotation in public policy research, focusing on accuracy, reliability, and cost-effectiveness. Using a large hand-labeled dataset and multiple annotation tasks, we compare GPT-based annotations with human-coded benchmarks and assess how prompt design, model choice, and task complexity affect performance. We find that GPT models can achieve high accuracy for many common annotation tasks, though performance varies across labels and contexts. We discuss practical guidance for researchers on when and how to use GPT models for annotation, including recommended workflows and transparency practices.
-
-</details>
-
-<hr class="pub-divider">
-
-**De-stereotyping Public Performance Evaluation** (2023. *International Public Management Journal, 26(1), 107–125*). **with** Yixin Liu.
-
-<details>
-<summary>Abstract</summary>
-
-Performance information can be interpreted through stereotypes about social groups, potentially biasing public performance evaluation. This study investigates whether and how de-stereotyping interventions affect citizens’ judgments when evaluating performance outcomes linked to stereotyped groups. Using experimental designs, we show that stereotypes can systematically shape perceived performance and support for public organizations. However, providing individuating information or reframing cues can reduce reliance on stereotypes and improve evaluative fairness. The results highlight a psychological mechanism behind biased performance assessment and point to actionable strategies to mitigate inequities in citizen evaluations.
-
-</details>
-
-<hr class="pub-divider">
-
-**Everything hacked? What is the Evidential Value of the Experimental Public Administration Literature?** (2021. *Journal of Behavioral Public Administration, 4(2), 1–17*). **with** Dominik Vogel.
-
-<details>
-<summary>Abstract</summary>
-
-Concerns about publication bias and questionable research practices have raised questions about the credibility of experimental findings across disciplines. This article evaluates the evidential value of the experimental public administration literature using statistical tools designed to detect selective reporting and assess robustness. We analyze published experiments and examine patterns of reported p-values and effect sizes. The results suggest that while many studies provide evidential value, there are also signs consistent with selective reporting in some areas. We discuss implications for research transparency and propose practices to strengthen the reliability and cumulative progress of experimental public administration research.
-
-</details>
+{{< include research_entries/pub_gpt_annotation_psj_2025.qmd >}}
+{{< include research_entries/pub_destereotyping_ipmj_2023.qmd >}}
+{{< include research_entries/pub_evidential_value_jbpa_2021.qmd >}}
 
 :::

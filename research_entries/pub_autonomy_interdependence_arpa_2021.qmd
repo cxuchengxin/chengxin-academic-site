@@ -1,0 +1,14 @@
+**Unpacking Nonprofit Autonomy-Interdependence Paradox in Collaborative Relationships** (2021). <span class="pub-journal"><em>American Review of Public Administration</em></span>, 51(4), 308–324. **with** Mirae Kim.
+
+<details class="abstract">
+<summary>Abstract</summary>
+<div class="abstract-body">
+Nonprofits frequently collaborate with governments and other partners, gaining resources while risking reduced autonomy. This article examines the autonomy–interdependence paradox in nonprofit collaborative relationships and identifies conditions under which collaboration undermines or supports nonprofit autonomy. Using empirical analyses, we show that different forms of dependence and governance arrangements can have distinct effects. The findings offer a nuanced understanding of collaboration tradeoffs and provide guidance for designing partnerships that balance resource benefits with nonprofit independence.
+</div>
+</details>
+
+<div class="pub-actions">
+  <a class="btn-article" href="https://journals.sagepub.com/doi/abs/10.1177/0275074020983802" target="_blank" rel="noopener noreferrer">Article</a>
+</div>
+
+<hr class="pub-divider">

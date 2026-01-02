@@ -1,0 +1,15 @@
+**No Country for Model Minorities: Evidence of Discrimination Against Asian Noncitizen Immigrants in the U.S. Nursing Home Market** (2025). <span class="pub-journal"><em>Public Administration Review</em></span>, 85(5), 1347–1364. **with** Danbee Lee.
+
+<details class="abstract">
+<summary>Abstract</summary>
+<div class="abstract-body">
+Although public administration scholars have long been concerned about equity in public service delivery, evidence on discrimination against Asian noncitizen immigrants remains limited. Drawing on theories of social categorization and intergroup bias, this study tests whether nursing homes discriminate against Asian noncitizen applicants. We conduct a correspondence experiment in which inquiries from prospective residents vary by implied race/ethnicity and citizenship status. Results show that Asian noncitizen immigrants receive fewer and less helpful responses than comparable applicants, indicating discrimination in access to long-term care information. The findings highlight an overlooked dimension of inequity and suggest the need for oversight and policy interventions to ensure fair access to care.
+</div>
+</details>
+
+<div class="pub-actions">
+  <a class="btn-article" href="https://doi.org/10.1111/puar.13907" target="_blank" rel="noopener noreferrer">Article</a>
+</div>
+
+
+<hr class="pub-divider">

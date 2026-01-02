@@ -250,3 +250,56 @@ details > *:not(summary){
   padding: 14px 14px 12px 14px;
   background: #fff;
 }
+
+.pub-journal{
+  color: #b00020;
+  font-style: italic;
+}
+
+.pub-btn{
+  display: inline-block;
+  margin: 10px 0 6px 0;
+  padding: 6px 12px;
+  border-radius: 10px;
+  background: var(--accent);
+  color: #fff !important;
+  font-size: 0.95rem;
+  font-weight: 600;
+  text-decoration: none !important;
+}
+
+.pub-btn:hover{ filter: brightness(0.95); }
+
+/* =====================================================
+   Publication: button under abstract
+   ===================================================== */
+.pub-actions{
+  margin: 10px 0 18px 0;   /* controls spacing under <details> */
+}
+
+.btn-article{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 8px 14px;
+  border: 1.5px solid var(--accent);
+  border-radius: 500px;    /* pill / rounded button */
+  background: transparent;
+
+  color: var(--accent);
+  font-size: 0.80rem;
+  font-weight: 600;
+  text-decoration: none;
+  line-height: 1;
+}
+
+.btn-article:hover{
+  text-decoration: none;
+  background: rgba(26, 95, 180, 0.08);
+}
+
+.btn-article:focus-visible{
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}

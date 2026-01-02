@@ -1,0 +1,12 @@
+**Bureaucratic Responsiveness, Immigrants, and Environmental Justice: Evidence from an Experimental Study**. **with** Jiaqi Liang; Zhengyan Li.
+
+<details class="abstract">
+<summary>Abstract</summary>
+
+<div class="abstract-body">
+Through the U.S. Superfund program, which is designed to clean up the most contaminated sites in the country, we test bureaucratic responsiveness with an audit experiment examining whether government officials show disparities in responding to residents based on the latter’s nativity, race/ethnicity, and language usage. Using 622 emails to federal Superfund managers, we found no significant differences based on nativity or race alone. However, we discovered substantial language-based disparities: managers were 12.7 percentage points less likely to respond to emails written in Spanish compared to those in English. These findings reveal that variations in access to information and participation opportunities from government agencies are largely attributable to whether residents communicate using the dominant language in society, rather than to racial or nativity status alone. This research advances our understanding of the mechanisms driving bureaucrat-citizen interactions, with important implications for administrative capacity building in increasingly diverse communities.
+</div>
+
+</details>
+
+<hr class="pub-divider">

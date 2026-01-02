@@ -1,0 +1,14 @@
+**Information Cost and Charitable Giving** (2025). <span class="pub-journal"><em>Nonprofit and Voluntary Sector Quarterly</em></span> (Online first). **with** George Mitchell; Huafang Li.
+
+<details class="abstract">
+<summary>Abstract</summary>
+<div class="abstract-body">
+Donors may be unwilling to acquire information about nonprofit performance when doing so is costly, potentially limiting charitable giving and weakening incentives for nonprofit accountability. This article examines how information costs shape donation decisions and evaluates whether reducing those costs increases giving. Using experimental evidence, we show that when performance information is easy to obtain, donors are more likely to consider it and adjust their giving accordingly. Conversely, higher information costs reduce attention to performance signals and attenuate responsiveness. We discuss implications for nonprofit transparency, information intermediaries, and fundraising strategies that lower donors’ search and processing burdens.
+</div>
+</details>
+
+<div class="pub-actions">
+  <a class="btn-article" href="https://doi.org/10.1177/0899764025134304" target="_blank" rel="noopener noreferrer">Article</a>
+</div>
+
+<hr class="pub-divider">

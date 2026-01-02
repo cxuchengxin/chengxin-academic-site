@@ -1,0 +1,14 @@
+**Communal-Focused or Market-Focused: Moral Judgment on Business Practices in Nonprofit Organizations** (2023). <span class="pub-journal"><em>Nonprofit Management and Leadership</em></span>, 34(3), 629–655.
+
+<details class="abstract">
+<summary>Abstract</summary>
+<div class="abstract-body">
+Nonprofit organizations increasingly adopt business practices, yet such practices may elicit moral concerns because nonprofits are expected to prioritize communal goals. This study examines how observers morally judge nonprofit business practices and whether judgments depend on whether practices signal communal focus or market focus. Using survey experiments, we show that market-focused cues trigger stronger moral disapproval and reduce perceived legitimacy relative to communal-focused cues. The findings illuminate a moral dimension of nonprofit hybridity and suggest that how nonprofits communicate and frame business practices can shape stakeholder evaluations.
+</div>
+</details>
+
+<div class="pub-actions">
+  <a class="btn-article" href="https://doi.org/10.1002/nml.21586" target="_blank" rel="noopener noreferrer">Article</a>
+</div>
+
+<hr class="pub-divider">

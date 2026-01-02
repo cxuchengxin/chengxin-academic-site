@@ -1,0 +1,14 @@
+**Resource Publicness Matters in Organizational Perceptions** (2021). <span class="pub-journal"><em>Public Administration Review</em></span>, 82(2), 338–353. **with** Huafang Li.
+
+<details class="abstract">
+<summary>Abstract</summary>
+<div class="abstract-body">
+Public, nonprofit, and private organizations often rely on different combinations of funding sources, which may shape how stakeholders perceive them. This study develops and tests the concept of resource publicness and examines how funding composition influences organizational perceptions. Using experimental evidence, we show that higher resource publicness affects perceptions of legitimacy, accountability, and mission orientation. The findings advance theories of sector distinctions and provide insight into how organizations can manage stakeholder expectations through financial transparency and communication.
+</div>
+</details>
+
+<div class="pub-actions">
+  <a class="btn-article" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/puar.13369" target="_blank" rel="noopener noreferrer">Article</a>
+</div>
+
+<hr class="pub-divider">

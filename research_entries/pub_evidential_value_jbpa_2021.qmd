@@ -1,0 +1,14 @@
+**Everything hacked? What is the Evidential Value of the Experimental Public Administration Literature?** (2021). <span class="pub-journal"><em>Journal of Behavioral Public Administration</em></span>, 4(2), 1–17. **with** Dominik Vogel.
+
+<details class="abstract">
+<summary>Abstract</summary>
+<div class="abstract-body">
+Concerns about publication bias and questionable research practices have raised questions about the credibility of experimental findings across disciplines. This article evaluates the evidential value of the experimental public administration literature using statistical tools designed to detect selective reporting and assess robustness. We analyze published experiments and examine patterns of reported p-values and effect sizes. The results suggest that while many studies provide evidential value, there are also signs consistent with selective reporting in some areas. We discuss implications for research transparency and propose practices to strengthen the reliability and cumulative progress of experimental public administration research.
+</div>
+</details>
+
+<div class="pub-actions">
+  <a class="btn-article" href="https://journal-bpa.org/index.php/jbpa/article/view/239" target="_blank" rel="noopener noreferrer">Article</a>
+</div>
+
+<hr class="pub-divider">

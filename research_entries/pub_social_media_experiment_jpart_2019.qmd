@@ -1,0 +1,14 @@
+**Using Large Scale Social Media Experiments in Public Administration: Assessing Charitable Consequences of Government Funding to Nonprofits** (2019). <span class="pub-journal"><em>Journal of Public Administration Research and Theory</em></span>, 29(4), 627–639. **with** Sebastian Jilke; Jiahuan Lu; Shugo Shinohara.
+
+<details class="abstract">
+<summary>Abstract</summary>
+<div class="abstract-body">
+Government funding can influence public perceptions of nonprofits and potentially affect private donations. This study uses large-scale social media experiments to examine how information about government funding to nonprofits shapes charitable behavior. We test messaging interventions and measure donation-related outcomes, assessing whether government support crowds out or crowds in private giving. Results indicate that funding cues can have meaningful effects, depending on framing and audience characteristics. The study demonstrates the promise of social media experiments for public administration research and provides evidence on the charitable consequences of government–nonprofit financial relationships.
+</div>
+</details>
+
+<div class="pub-actions">
+  <a class="btn-article" href="https://doi.org/10.1093/jopart/muy021" target="_blank" rel="noopener noreferrer">Article</a>
+</div>
+
+<hr class="pub-divider">

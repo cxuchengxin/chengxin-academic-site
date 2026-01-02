@@ -1,0 +1,14 @@
+**Does Mislabeling COVID-19 Elicit the Perception of Threat and Reduce Blame?** (2021). <span class="pub-journal"><em>Journal of Behavioral Public Administration</em></span>, 4(2), 1–13. **with** Yixin Liu.
+
+<details class="abstract">
+<summary>Abstract</summary>
+<div class="abstract-body">
+Political and media actors sometimes use labels for infectious diseases that emphasize geographic or ethnic associations. This study examines whether mislabeling COVID-19 influences perceived threat and attribution of blame. Using experimental survey evidence, we test how different disease labels affect attitudes toward groups associated with the label, threat perceptions, and policy preferences. Findings show that mislabeling can increase perceived threat and alter blame dynamics, with implications for social cohesion and crisis communication. The study contributes to understanding how language shapes public reactions during public health emergencies.
+</div>
+</details>
+
+<div class="pub-actions">
+  <a class="btn-article" href="https://journal-bpa.org/index.php/jbpa/article/view/225" target="_blank" rel="noopener noreferrer">Article</a>
+</div>
+
+<hr class="pub-divider">
