@@ -8,11 +8,11 @@ title: "Teaching"
 - **PUBM 5100**: Economic Analysis
 - **PUBM 5430**: Research Design for Program Evaluation
 - **PUBM 5900**: Capstone for Public Services
-- **PUBM 5910**: Data Science for Public Services
+- **PUBM 5910**: Advanced Data Analysis and Management
 
 ### Undergraduate
-- **PUBA 3910**: Social Innovation and Entrepreneurship
-- **PUBA 3910**: Public Policy and Economics
+- **PUBA 3910 (Special Topics)**: Social Innovation and Entrepreneurship
+- **PUBA 3910 (Special Topics)**: Public Policy and Economics
 
 ---
 
@@ -27,21 +27,21 @@ The second theme of the course is "_Managing Public Organization_", which probes
 
 The final theme, "_Making and Implementing Government Decisions_", will cover topics including government decision making process, and implementation and performance. Under this theme, we will focus specifically on street-level bureaucrats' ethical decision making, unravel why good policies may lead to a major failure in the society, and how performance evaluation may or may not improve  equitable and efficient public service delivery.
 
-(Syllabus Holder)
+[Download syllabus](assets/syllabi/PUBM 5010 Politics and Public Administration.pdf){.syllabus-btn target="_blank"}
 
 <hr class="pub-divider">
 
 ### **PUBM 5100**: Economic Analysis
 This course deals with the application of basic microeconomic analysis to public policy problems. The primary goal of the course is to learn the basic principles of economic reasoning so that you can use those principles to help untangle the complex policy problems you will confront as policy makers, policy analysts, and administrators. The course differs from more traditional microeconomics courses in its emphasis on public policy applications.
 
-(Syllabus Holder)
+[Download syllabus](assets/syllabi/PUBM 5100 Economic Analysis.pdf){.syllabus-btn target="_blank"}
 
 <hr class="pub-divider">
 
 ### **PUBM 5430**: Research Design for Program Evaluation
 This course exposes students to issues central to understanding and applying research-based evidence to public affairs and administration. These issues include the use of theory or models, measurement concepts and methods, qualitative and quantitative modes of observation, identifying causes, the logic of control variables, and understanding experiments and quasi-experiments. The emphasis is on learning these ideas through practice with many different examples of real-world research and empirical evidence.
 
-#### Skills covered:
+##### Skills covered:
 - Causal diagram
 - Logics of causal inference with randomized experiments and quasi-experiments
 - Survey design
@@ -49,42 +49,42 @@ This course exposes students to issues central to understanding and applying res
 - Qualitative data analysis
 - Logics of evidence-based decision making
 
-(Syllabus Holder)
+[Download syllabus](assets/syllabi/PUBM 5430 Research Design.pdf){.syllabus-btn target="_blank"}
 
 <hr class="pub-divider">
 
 ### **PUBM 5900**: Capstone for Public Services
 The primary objective for the course is to thoroughly research and analyze a problem or issue faced by a client organization in the public or nonprofit sectors, and to make recommendations for improvement. To ensure you have an accurate understanding of the issue being analyzed, you are required to conduct and analyze a series of interviews in preparation for their final report. You will work independently, with support from me and your peers, to select a client, identify a policy or organizational issue that impacts that client, research and analyze that issue, and make a final recommendation to your client. At the end of the quarter, you will submit a written report and present your findings and recommendations in a 10-12-minute oral presentation to a public audience. 
 
-(Syllabus Holder)
+[Download syllabus](assets/syllabi/PUBM 5900 Capstone.pdf){.syllabus-btn target="_blank"}
 
 <hr class="pub-divider">
 
-### **PUBM 5910**: Data Science for Public Services
+### **PUBM 5910**: Advanced Data Analysis and Management
 Public agencies are increasingly interested in unlocking the potential of large-scale data to improve service delivery and inform policy efforts. Computational tools capable of making productive use of big data have proliferated in recent years, drastically decreasing the barriers to entry for interested parties. This 8-week course will be divided into two following sections: 
 
 The first part of this course will explore the practice of using data to improve organizational performance, including techniques for data collection, analysis, and behavior change. Regression serves as the foundation for modern quantitative program evaluation techniques, so the first part of this course establishes a baseline set of skills that can be extended in your future self-studies. 
 
 The second part of the course focuses on effective data management for public agencies. Students will operate as their own laboratory through a data journaling exercise, and devise strategies for incorporating data into management practices of public and nonprofit organizations.
 
-(Syllabus Holder)
+[Download syllabus](assets/syllabi/PUBM 5910 Advanced Data Analysis.pdf){.syllabus-btn target="_blank"}
 
 <hr class="pub-divider">
 
-### **PUBA 3910**: Social Innovation and Entrepreneurship
+### **PUBA 3910 (Special Topics)**: Social Innovation and Entrepreneurship
 Our society is calling for more solutions for growing social problems, and social enterprises---new venture creation that profitably confronts social problems such as poverty and inequality, lack of access to healthcare and education, and climate change---are considered as an innovative approach to make effective and sustainable impact. This course will enable you to build you a sense of social entrepreneurship and to inspire you ideas for social problems particularly of your interest. We will start with identifying social problems, understanding their underlying mechanisms. Then, we will explore different approaches of social innovation, including social enterprises, B-Corporations, social impact bonds, and their fundamental principles and logics. Finally, we will take a critical perspective to re-examine social enterprises to understand unique challenges against such innovative approach. 
 
-(Syllabus Holder)
+[Download syllabus](assets/syllabi/PUBM 3910 Social Innovation and Enterprise.pdf){.syllabus-btn target="_blank"}
 
 <hr class="pub-divider">
 
-### **PUBA 3910**: Public Policy and Economics
+### **PUBA 3910 (Special Topics)**: Public Policy and Economics
 This course offers a unique approach to economics by focusing on the practical application of economic principles to key policy fields. Unlike traditional economics courses that emphasize graphic and mathematical approaches, this course prioritizes the real-world application of concepts and theories to analyze and address contemporary social issues.
 
 Students in this class will explore how economic insights can explain and drive social change as well as inform policy design. Through interactive discussions and debates, students will learn to evaluate economic equity, assess environmental policies, and explore the economic implications of technological innovations. Additionally, the course will cover the intricacies of U.S. housing markets and healthcare systems, equipping students with the knowledge to design effective policies in these areas.
 
 In addition, this class will equip students with foundations and skills for learning economics. Class activities will heavily rely on students’ use of ChatGPT and other generative AI tools (e.g. Learn About and NotebookLM by Google), including active learning, fact-checking, debates, and critical writing.
 
-(Syllabus Holder)
+[Download syllabus](assets/syllabi/PUBM 3910 Public Policy and Economics){.syllabus-btn target="_blank"}
 
 <hr class="pub-divider">

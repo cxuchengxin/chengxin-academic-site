@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Chengxin Xu"
+  title: "Chengxin-Michael Xu"
   search: false
 
   navbar:
@@ -16,8 +16,7 @@ website:
         href: teaching.qmd
       - text: CV
         href: cv.qmd
-      - text: Contact
-        href: contact.qmd
+
 
     right:
       - text: 中文

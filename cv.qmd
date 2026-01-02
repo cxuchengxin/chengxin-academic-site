@@ -4,7 +4,3 @@ title: "CV"
 
 - [Download CV (PDF)](assets/cv/chengxin_cv.pdf)
 
-## Web CV (Placeholder)
-- Research interests: (Placeholder)
-- Experience: (Placeholder)
-- Education: (Placeholder)
