@@ -7,6 +7,8 @@ project:
 website:
   title: "Chengxin-Michael Xu"
   search: false
+  site-url: "https://cxuchengxin.github.io/chengxin-academic-site/"
+
 
   navbar:
     left:
