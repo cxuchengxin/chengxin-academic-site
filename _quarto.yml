@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - googled5e8d8be77b19177.html
 
 website:
   title: "Chengxin-Michael Xu"
