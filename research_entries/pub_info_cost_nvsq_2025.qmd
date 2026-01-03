@@ -8,7 +8,7 @@ Donors may be unwilling to acquire information about nonprofit performance when 
 </details>
 
 <div class="pub-actions">
-  <a class="btn-article" href="https://doi.org/10.1177/0899764025134304" target="_blank" rel="noopener noreferrer">Article</a>
+  <a class="btn-article" href="https://doi.org/10.1177/08997640251343049" target="_blank" rel="noopener noreferrer">Article</a>
 </div>
 
 <hr class="pub-divider">
