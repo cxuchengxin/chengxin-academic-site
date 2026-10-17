@@ -1,4 +1,12 @@
-**Resource Publicness Matters in Organizational Perceptions** (2021). <span class="pub-journal"><em>Public Administration Review</em></span>, 82(2), 338–353. **with** Huafang Li.
+::: {.pub-item}
+
+::: {.pub-title}
+Resource Publicness Matters in Organizational Perceptions
+:::
+
+::: {.pub-meta}
+[2021]{.pub-year} <span class="pub-journal"><em>Public Administration Review</em></span>, 82(2), 338–353. [with Huafang Li]{.pub-authors}
+:::
 
 <details class="abstract">
 <summary>Abstract</summary>
@@ -11,4 +19,4 @@ Public, nonprofit, and private organizations often rely on different combination
   <a class="btn-article" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/puar.13369" target="_blank" rel="noopener noreferrer">Article</a>
 </div>
 
-<hr class="pub-divider">
+:::

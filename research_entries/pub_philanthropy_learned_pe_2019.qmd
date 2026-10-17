@@ -1,4 +1,12 @@
-**Philanthropy Can Be Learned: A Qualitative Study of Student Experiences in Experiential Philanthropy Courses** (2019). <span class="pub-journal"><em>Philanthropy and Education</em></span>, 2(2), 29–52. **with** Huafang Li; Lindsey McDougle.
+::: {.pub-item}
+
+::: {.pub-title}
+Philanthropy Can Be Learned: A Qualitative Study of Student Experiences in Experiential Philanthropy Courses
+:::
+
+::: {.pub-meta}
+[2019]{.pub-year} <span class="pub-journal"><em>Philanthropy and Education</em></span>, 2(2), 29–52. [with Huafang Li; Lindsey McDougle]{.pub-authors}
+:::
 
 <details class="abstract">
 <summary>Abstract</summary>
@@ -11,4 +19,4 @@ Experiential philanthropy courses aim to teach students about philanthropy by in
   <a class="btn-article" href="https://muse.jhu.edu/article/811666" target="_blank" rel="noopener noreferrer">Article</a>
 </div>
 
-<hr class="pub-divider">
+:::

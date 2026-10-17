@@ -1,4 +1,12 @@
-**Designing a More Inclusive Government Grantmaking Process: Perspectives from Nonprofit Leaders in Minnesota**. **with** Yuan (Daniel) Cheng; Weston Merrick; Patrick Carter; Kari Aanestad.
+::: {.pub-item}
+
+::: {.pub-title}
+Designing a More Inclusive Government Grantmaking Process: Perspectives from Nonprofit Leaders in Minnesota
+:::
+
+::: {.pub-meta}
+[Working paper]{.pub-year .pub-wp} [with Yuan (Daniel) Cheng; Weston Merrick; Patrick Carter; Kari Aanestad]{.pub-authors}
+:::
 
 <details class="abstract">
 <summary>Abstract</summary>
@@ -9,4 +17,4 @@ Each year, the state of Minnesota administers hundreds of millions of dollars in
 
 </details>
 
-<hr class="pub-divider">
+:::

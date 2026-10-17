@@ -1,4 +1,12 @@
-**Can Philanthropy be Taught?** (2017). <span class="pub-journal"><em>Nonprofit and Voluntary Sector Quarterly</em></span>, 46(2), 330–351. **with** Lindsey McDougle; D. McDonald; W. McIntyre Miller; Huafang Li.
+::: {.pub-item}
+
+::: {.pub-title}
+Can Philanthropy be Taught?
+:::
+
+::: {.pub-meta}
+[2017]{.pub-year} <span class="pub-journal"><em>Nonprofit and Voluntary Sector Quarterly</em></span>, 46(2), 330–351. [with Lindsey McDougle; D. McDonald; W. McIntyre Miller; Huafang Li]{.pub-authors}
+:::
 
 <details class="abstract">
 <summary>Abstract</summary>
@@ -11,4 +19,4 @@ Interest in teaching philanthropy has grown, but evidence about whether and how 
   <a class="btn-article" href="https://doi.org/10.1177/0899764016662355" target="_blank" rel="noopener noreferrer">Article</a>
 </div>
 
-<hr class="pub-divider">
+:::

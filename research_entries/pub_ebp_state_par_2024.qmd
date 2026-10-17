@@ -1,4 +1,12 @@
-**Understanding the Use of Evidence-based Practices by Civil Servants in U.S. State Governments: Current State, Challenges and Pathways Forward** (2024). <span class="pub-journal"><em>Public Administration Review</em></span>, 85(1), 9–20. **with** Yuan (Daniel) Cheng; Leslie Thompson; Shuping Wang; Jules Marzec; Weston Merrick; Patrick Carter.
+::: {.pub-item}
+
+::: {.pub-title}
+Understanding the Use of Evidence-based Practices by Civil Servants in U.S. State Governments: Current State, Challenges and Pathways Forward
+:::
+
+::: {.pub-meta}
+[2024]{.pub-year} <span class="pub-journal"><em>Public Administration Review</em></span>, 85(1), 9–20. [with Yuan (Daniel) Cheng; Leslie Thompson; Shuping Wang; Jules Marzec; Weston Merrick; Patrick Carter]{.pub-authors}
+:::
 
 <details class="abstract">
 <summary>Abstract</summary>
@@ -11,4 +19,4 @@ Leveraging a three-state survey of 323 civil servants, this study examines the c
   <a class="btn-article" href="https://doi.org/10.1111/puar.13878" target="_blank" rel="noopener noreferrer">Article</a>
 </div>
 
-<hr class="pub-divider">
+:::

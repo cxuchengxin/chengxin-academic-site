@@ -1,4 +1,12 @@
-**Complementary or Supplementary? The Relationship between Government Size and Nonprofit Sector Size** (2018). <span class="pub-journal"><em>VOLUNTAS</em></span>, 29(3), 454–469. **with** Jiahuan Lu.
+::: {.pub-item}
+
+::: {.pub-title}
+Complementary or Supplementary? The Relationship between Government Size and Nonprofit Sector Size
+:::
+
+::: {.pub-meta}
+[2018]{.pub-year} <span class="pub-journal"><em>VOLUNTAS</em></span>, 29(3), 454–469. [with Jiahuan Lu]{.pub-authors}
+:::
 
 <details class="abstract">
 <summary>Abstract</summary>
@@ -11,4 +19,4 @@ The relationship between government size and nonprofit sector size is debated: l
   <a class="btn-article" href="https://link.springer.com/article/10.1007/s11266-018-9981-2" target="_blank" rel="noopener noreferrer">Article</a>
 </div>
 
-<hr class="pub-divider">
+:::

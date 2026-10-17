@@ -4,6 +4,7 @@ project:
   resources:
     - CNAME
     - googled5e8d8be77b19177.html
+    - assets/js/*.js
 
 website:
   title: "Chengxin-Michael Xu"

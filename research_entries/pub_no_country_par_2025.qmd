@@ -1,4 +1,12 @@
-**No Country for Model Minorities: Evidence of Discrimination Against Asian Noncitizen Immigrants in the U.S. Nursing Home Market** (2025). <span class="pub-journal"><em>Public Administration Review</em></span>, 85(5), 1347–1364. **with** Danbee Lee.
+::: {.pub-item}
+
+::: {.pub-title}
+No Country for Model Minorities: Evidence of Discrimination Against Asian Noncitizen Immigrants in the U.S. Nursing Home Market
+:::
+
+::: {.pub-meta}
+[2025]{.pub-year} <span class="pub-journal"><em>Public Administration Review</em></span>, 85(5), 1347–1364. [with Danbee Lee]{.pub-authors}
+:::
 
 <details class="abstract">
 <summary>Abstract</summary>
@@ -11,5 +19,4 @@ Although public administration scholars have long been concerned about equity in
   <a class="btn-article" href="https://doi.org/10.1111/puar.13907" target="_blank" rel="noopener noreferrer">Article</a>
 </div>
 
-
-<hr class="pub-divider">
+:::

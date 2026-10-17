@@ -1,4 +1,12 @@
-**De-stereotyping Public Performance Evaluation** (2023). <span class="pub-journal"><em>International Public Management Journal</em></span>, 26(1), 107–125. **with** Yixin Liu.
+::: {.pub-item}
+
+::: {.pub-title}
+De-stereotyping Public Performance Evaluation
+:::
+
+::: {.pub-meta}
+[2023]{.pub-year} <span class="pub-journal"><em>International Public Management Journal</em></span>, 26(1), 107–125. [with Yixin Liu]{.pub-authors}
+:::
 
 <details class="abstract">
 <summary>Abstract</summary>
@@ -11,4 +19,4 @@ Performance information can be interpreted through stereotypes about social grou
   <a class="btn-article" href="https://www.tandfonline.com/doi/full/10.1080/10967494.2022.2109786" target="_blank" rel="noopener noreferrer">Article</a>
 </div>
 
-<hr class="pub-divider">
+:::

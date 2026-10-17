@@ -1,4 +1,12 @@
-**Public Pressure Expands Policy Access for Black Constituents but Limits Substantive Engagement**. **with** Danyao Li; Yixin Liu; Huimin Zheng.
+::: {.pub-item}
+
+::: {.pub-title}
+Public Pressure Expands Policy Access for Black Constituents but Limits Substantive Engagement
+:::
+
+::: {.pub-meta}
+[Working paper]{.pub-year .pub-wp} [with Danyao Li; Yixin Liu; Huimin Zheng]{.pub-authors}
+:::
 
 <details class="abstract">
 <summary>Abstract</summary>
@@ -9,4 +17,4 @@ Municipal policymakers are gatekeepers of policy ideas. Our nationwide audit sho
 
 </details>
 
-<hr class="pub-divider">
+:::

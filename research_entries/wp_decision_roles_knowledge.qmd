@@ -1,4 +1,12 @@
-**Linking Decision Roles to Knowledge Utilization in U.S. State Governments: A Mixed-Method Study**. **with** Shuping Wang; Yuan-Daniel Cheng.
+::: {.pub-item}
+
+::: {.pub-title}
+Linking Decision Roles to Knowledge Utilization in U.S. State Governments: A Mixed-Method Study
+:::
+
+::: {.pub-meta}
+[Working paper]{.pub-year .pub-wp} [with Shuping Wang; Yuan-Daniel Cheng]{.pub-authors}
+:::
 
 <details class="abstract">
 <summary>Abstract</summary>
@@ -9,4 +17,4 @@ The contemporary evidence-based policymaking movement argues that we need more s
 
 </details>
 
-<hr class="pub-divider">
+:::

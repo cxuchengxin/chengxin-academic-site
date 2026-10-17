@@ -1,4 +1,12 @@
-**Communal-Focused or Market-Focused: Moral Judgment on Business Practices in Nonprofit Organizations** (2023). <span class="pub-journal"><em>Nonprofit Management and Leadership</em></span>, 34(3), 629–655.
+::: {.pub-item}
+
+::: {.pub-title}
+Communal-Focused or Market-Focused: Moral Judgment on Business Practices in Nonprofit Organizations
+:::
+
+::: {.pub-meta}
+[2023]{.pub-year} <span class="pub-journal"><em>Nonprofit Management and Leadership</em></span>, 34(3), 629–655.
+:::
 
 <details class="abstract">
 <summary>Abstract</summary>
@@ -11,4 +19,4 @@ Nonprofit organizations increasingly adopt business practices, yet such practice
   <a class="btn-article" href="https://doi.org/10.1002/nml.21586" target="_blank" rel="noopener noreferrer">Article</a>
 </div>
 
-<hr class="pub-divider">
+:::

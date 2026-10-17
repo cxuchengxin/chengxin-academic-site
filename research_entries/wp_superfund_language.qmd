@@ -1,4 +1,12 @@
-**Bureaucratic Responsiveness, Immigrants, and Environmental Justice: Evidence from an Experimental Study**. **with** Jiaqi Liang; Zhengyan Li.
+::: {.pub-item}
+
+::: {.pub-title}
+Bureaucratic Responsiveness, Immigrants, and Environmental Justice: Evidence from an Experimental Study
+:::
+
+::: {.pub-meta}
+[Working paper]{.pub-year .pub-wp} [with Jiaqi Liang; Zhengyan Li]{.pub-authors}
+:::
 
 <details class="abstract">
 <summary>Abstract</summary>
@@ -9,4 +17,4 @@ Through the U.S. Superfund program, which is designed to clean up the most conta
 
 </details>
 
-<hr class="pub-divider">
+:::

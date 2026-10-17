@@ -1,4 +1,12 @@
-**Messenger Effects in COVID-19 Communication: Does the Level of Government Matter?** (2020). <span class="pub-journal"><em>Health Policy OPEN</em></span>, 100027. **with** Nathan Favero; Sebastian Jilke; Julia A. Wolfson; Matthew Young.
+::: {.pub-item}
+
+::: {.pub-title}
+Messenger Effects in COVID-19 Communication: Does the Level of Government Matter?
+:::
+
+::: {.pub-meta}
+[2020]{.pub-year} <span class="pub-journal"><em>Health Policy OPEN</em></span>, 100027. [with Nathan Favero; Sebastian Jilke; Julia A. Wolfson; Matthew Young]{.pub-authors}
+:::
 
 <details class="abstract">
 <summary>Abstract</summary>
@@ -11,4 +19,4 @@ Effective crisis communication can depend not only on message content but also o
   <a class="btn-article" href="https://www.sciencedirect.com/science/article/pii/S2590229620300253" target="_blank" rel="noopener noreferrer">Article</a>
 </div>
 
-<hr class="pub-divider">
+:::

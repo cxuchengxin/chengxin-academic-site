@@ -1,8 +1,10 @@
 ---
 title: "Research"
+subtitle: "Publications and working projects, organized by research area."
+include-after-body:
+  text: |
+    <script src="assets/js/research.js"></script>
 ---
-
-## Publications & Working Projects
 
 ::: {.panel-tabset}
 
@@ -16,8 +18,6 @@ title: "Research"
 {{< include research_entries/wp_cost_of_service.qmd >}}
 {{< include research_entries/wp_inclusive_grantmaking_mn.qmd >}}
 {{< include research_entries/wp_decision_roles_knowledge.qmd >}}
-
-<hr class="section-divider">
 
 ### Publications
 
@@ -49,8 +49,6 @@ title: "Research"
 {{< include research_entries/wp_inclusive_grantmaking_mn.qmd >}}
 {{< include research_entries/wp_decision_roles_knowledge.qmd >}}
 
-<hr class="section-divider">
-
 ### Publications
 
 {{< include research_entries/pub_no_country_par_2025.qmd >}}
@@ -65,8 +63,6 @@ title: "Research"
 ### Working Projects
 
 {{< include research_entries/wp_forprofit_fundraisers.qmd >}}
-
-<hr class="section-divider">
 
 ### Publications
 
@@ -84,8 +80,6 @@ title: "Research"
 ### Working Projects
 
 {{< include research_entries/wp_decision_roles_knowledge.qmd >}}
-
-<hr class="section-divider">
 
 ### Publications
 

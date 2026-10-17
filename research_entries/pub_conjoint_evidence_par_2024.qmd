@@ -1,4 +1,12 @@
-**Evaluating Use of Evidence in U.S. State Governments: A Conjoint Analysis** (2024). <span class="pub-journal"><em>Public Administration Review</em></span>, 85(4), 1217–1235. **with** Yuan (Daniel) Cheng; Shuping Wang; Weston Merrick; Patrick Carter.
+::: {.pub-item}
+
+::: {.pub-title}
+Evaluating Use of Evidence in U.S. State Governments: A Conjoint Analysis
+:::
+
+::: {.pub-meta}
+[2024]{.pub-year} <span class="pub-journal"><em>Public Administration Review</em></span>, 85(4), 1217–1235. [with Yuan (Daniel) Cheng; Shuping Wang; Weston Merrick; Patrick Carter]{.pub-authors}
+:::
 
 <details class="abstract">
 <summary>Abstract</summary>
@@ -11,4 +19,4 @@ Evidence‐based practice (EBP) has become a global movement, yet we know compar
   <a class="btn-article" href="https://doi.org/10.1111/puar.13903" target="_blank" rel="noopener noreferrer">Article</a>
 </div>
 
-<hr class="pub-divider">
+:::

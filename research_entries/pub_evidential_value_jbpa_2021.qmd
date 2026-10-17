@@ -1,4 +1,12 @@
-**Everything hacked? What is the Evidential Value of the Experimental Public Administration Literature?** (2021). <span class="pub-journal"><em>Journal of Behavioral Public Administration</em></span>, 4(2), 1–17. **with** Dominik Vogel.
+::: {.pub-item}
+
+::: {.pub-title}
+Everything hacked? What is the Evidential Value of the Experimental Public Administration Literature?
+:::
+
+::: {.pub-meta}
+[2021]{.pub-year} <span class="pub-journal"><em>Journal of Behavioral Public Administration</em></span>, 4(2), 1–17. [with Dominik Vogel]{.pub-authors}
+:::
 
 <details class="abstract">
 <summary>Abstract</summary>
@@ -11,4 +19,4 @@ Concerns about publication bias and questionable research practices have raised 
   <a class="btn-article" href="https://journal-bpa.org/index.php/jbpa/article/view/239" target="_blank" rel="noopener noreferrer">Article</a>
 </div>
 
-<hr class="pub-divider">
+:::

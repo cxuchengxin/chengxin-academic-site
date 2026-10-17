@@ -1,4 +1,12 @@
-**Does Mislabeling COVID-19 Elicit the Perception of Threat and Reduce Blame?** (2021). <span class="pub-journal"><em>Journal of Behavioral Public Administration</em></span>, 4(2), 1–13. **with** Yixin Liu.
+::: {.pub-item}
+
+::: {.pub-title}
+Does Mislabeling COVID-19 Elicit the Perception of Threat and Reduce Blame?
+:::
+
+::: {.pub-meta}
+[2021]{.pub-year} <span class="pub-journal"><em>Journal of Behavioral Public Administration</em></span>, 4(2), 1–13. [with Yixin Liu]{.pub-authors}
+:::
 
 <details class="abstract">
 <summary>Abstract</summary>
@@ -11,4 +19,4 @@ Political and media actors sometimes use labels for infectious diseases that emp
   <a class="btn-article" href="https://journal-bpa.org/index.php/jbpa/article/view/225" target="_blank" rel="noopener noreferrer">Article</a>
 </div>
 
-<hr class="pub-divider">
+:::

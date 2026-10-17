@@ -1,4 +1,12 @@
-**Unpacking Nonprofit Autonomy-Interdependence Paradox in Collaborative Relationships** (2021). <span class="pub-journal"><em>American Review of Public Administration</em></span>, 51(4), 308–324. **with** Mirae Kim.
+::: {.pub-item}
+
+::: {.pub-title}
+Unpacking Nonprofit Autonomy-Interdependence Paradox in Collaborative Relationships
+:::
+
+::: {.pub-meta}
+[2021]{.pub-year} <span class="pub-journal"><em>American Review of Public Administration</em></span>, 51(4), 308–324. [with Mirae Kim]{.pub-authors}
+:::
 
 <details class="abstract">
 <summary>Abstract</summary>
@@ -11,4 +19,4 @@ Nonprofits frequently collaborate with governments and other partners, gaining r
   <a class="btn-article" href="https://journals.sagepub.com/doi/abs/10.1177/0275074020983802" target="_blank" rel="noopener noreferrer">Article</a>
 </div>
 
-<hr class="pub-divider">
+:::

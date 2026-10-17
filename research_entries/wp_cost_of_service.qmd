@@ -1,4 +1,12 @@
-**The Cost of Service and Street-level Bureaucrats' Coping Strategy: A Field Experiment**. **with** Jiaqi Liang; Sanghee Park.
+::: {.pub-item}
+
+::: {.pub-title}
+The Cost of Service and Street-level Bureaucrats' Coping Strategy: A Field Experiment
+:::
+
+::: {.pub-meta}
+[Working paper]{.pub-year .pub-wp} [with Jiaqi Liang; Sanghee Park]{.pub-authors}
+:::
 
 <details class="abstract">
 <summary>Abstract</summary>
@@ -9,4 +17,4 @@ This study explores how workload and representation influence government officia
 
 </details>
 
-<hr class="pub-divider">
+:::
