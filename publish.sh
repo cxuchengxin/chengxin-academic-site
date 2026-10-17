@@ -21,11 +21,24 @@ if ! command -v quarto >/dev/null 2>&1; then
   exit 1
 fi
 
+# Ensure we are on main (optional but recommended)
+BRANCH="$(git rev-parse --abbrev-ref HEAD)"
+if [[ "${BRANCH}" != "main" ]]; then
+  echo "ERROR: You are on branch '${BRANCH}'. Switch to main first:"
+  echo "  git checkout main"
+  exit 1
+fi
+
 # Commit message
 MSG="${1:-}"
 if [[ -z "${MSG}" ]]; then
   MSG="Publish site $(date '+%Y-%m-%d %H:%M:%S')"
 fi
+
+echo "==> 0) Syncing with remote (rebase) ..."
+git fetch origin
+# Rebase your local commits on top of origin/main (prevents push rejection)
+git pull --rebase --autostash origin main
 
 echo "==> 1) Rendering site to docs/ ..."
 quarto render
@@ -33,7 +46,6 @@ quarto render
 echo "==> 2) Checking git status ..."
 git status --porcelain
 
-# Stage everything (including docs/)
 echo "==> 3) Staging changes ..."
 git add .
 
@@ -46,7 +58,11 @@ fi
 echo "==> 4) Committing ..."
 git commit -m "${MSG}"
 
-echo "==> 5) Pushing to GitHub ..."
-git push
+echo "==> 5) Syncing again (in case remote changed while you were rendering) ..."
+git fetch origin
+git pull --rebase origin main
+
+echo "==> 6) Pushing to GitHub ..."
+git push origin main
 
 echo "✅ Done! Your GitHub Pages site should update shortly."

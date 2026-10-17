@@ -85,6 +85,6 @@ Students in this class will explore how economic insights can explain and drive 
 
 In addition, this class will equip students with foundations and skills for learning economics. Class activities will heavily rely on students’ use of ChatGPT and other generative AI tools (e.g. Learn About and NotebookLM by Google), including active learning, fact-checking, debates, and critical writing.
 
-[Download syllabus](assets/syllabi/PUBM 3910 Public Policy and Economics){.syllabus-btn target="_blank"}
+[Download syllabus](assets/syllabi/PUBA 3910 Public Policy and Economics.pdf){.syllabus-btn target="_blank"}
 
 <hr class="pub-divider">

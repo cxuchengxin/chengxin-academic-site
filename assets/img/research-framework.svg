@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="360" viewBox="0 0 980 360">
+  <rect width="980" height="360" fill="#ffffff"/>
+  <rect x="40" y="70" width="260" height="120" rx="14" fill="#ffffff" stroke="#e6e6e6" stroke-width="3"/>
+  <rect x="360" y="70" width="260" height="120" rx="14" fill="#ffffff" stroke="#e6e6e6" stroke-width="3"/>
+  <rect x="680" y="70" width="260" height="120" rx="14" fill="#ffffff" stroke="#e6e6e6" stroke-width="3"/>
+
+  <text x="170" y="120" text-anchor="middle" font-size="20" fill="#111" font-family="system-ui">Problem</text>
+  <text x="490" y="120" text-anchor="middle" font-size="20" fill="#111" font-family="system-ui">Method</text>
+  <text x="810" y="120" text-anchor="middle" font-size="20" fill="#111" font-family="system-ui">Contribution</text>
+
+  <line x1="300" y1="130" x2="360" y2="130" stroke="#555" stroke-width="3"/>
+  <polygon points="360,130 346,122 346,138" fill="#555"/>
+  <line x1="620" y1="130" x2="680" y2="130" stroke="#555" stroke-width="3"/>
+  <polygon points="680,130 666,122 666,138" fill="#555"/>
+
+  <text x="40" y="300" font-size="16" fill="#555" font-family="system-ui">
+    Placeholder figure — replace with your actual framework or project diagram.
+  </text>
+</svg>
