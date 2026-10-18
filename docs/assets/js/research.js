@@ -59,7 +59,10 @@
     return header ? Math.max(0, header.getBoundingClientRect().bottom) : 0;
   }
   function updateOffset(){
-    tabset.style.setProperty('--tabs-top', headerBottom() + 'px');
+    var top = headerBottom();
+    tabset.style.setProperty('--tabs-top', top + 'px');
+    // Shadow once the bar is pinned over the content
+    tabset.classList.toggle('tabs-stuck', tabset.getBoundingClientRect().top < top - 1);
   }
 
   window.addEventListener('scroll', updateOffset, { passive: true });

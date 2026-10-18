@@ -34,4 +34,5 @@ format:
   html:
     toc: false
     page-layout: full
+    include-after-body: _site-scripts.html
     css: assets/css/styles.css
