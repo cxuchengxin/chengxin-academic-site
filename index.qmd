@@ -16,7 +16,7 @@ I am an Associate Professor of the Department of Public Affairs and Nonprofit Le
 
 My work appears in leading journals of the field, including *Public Administration Review*, *Journal of Public Administration Research and Theory*, *Nonprofit and Voluntary Sector Quarterly*, *Nonprofit Management and Leadership*, *Voluntas*, and *Policy Studies Journal*.
 
-You can reach me via email: cxu1 [at] seattleu.edu
+You can reach me via email: cxu1[at]seattleu[dot]edu
 </div>
 
 <div class="icon-row" role="navigation" aria-label="External links">
