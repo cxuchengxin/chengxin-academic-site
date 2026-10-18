@@ -40,6 +40,7 @@
 
     // Keep the URL in sync so a topic can be linked and survives reload
     link.addEventListener('shown.bs.tab', function(){
+      tabset.classList.add('tabs-switched');
       history.replaceState(null, '', '#' + link.getAttribute('data-slug'));
       var top = tabset.getBoundingClientRect().top + window.scrollY - headerBottom() - 8;
       if (window.scrollY > top) window.scrollTo({ top: top, behavior: 'smooth' });

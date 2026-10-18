@@ -483,13 +483,24 @@ details > *:not(summary){
    Motion: navigation aids
    ===================================================== */
 
-/* Research tabs: soft fade when switching topics */
-@keyframes pane-in{
-  from{ opacity: 0; transform: translateY(6px); }
+/* Shared fade + upward slide (page loads and Research topic switches) */
+:root{
+  --slide-in-duration: 0.45s;
+  --slide-in-distance: 14px;
+}
+@keyframes slide-in{
+  from{ opacity: 0; transform: translateY(var(--slide-in-distance)); }
   to{ opacity: 1; transform: none; }
 }
-.research-tabs .tab-pane.active{
-  animation: pane-in 0.22s ease-out;
+
+/* Every page: content slides up on load */
+main.content{
+  animation: slide-in var(--slide-in-duration) cubic-bezier(0.22, 1, 0.36, 1) backwards;
+}
+
+/* Research tabs: same motion when switching topics (not on first load) */
+.research-tabs.tabs-switched .tab-pane.active{
+  animation: slide-in var(--slide-in-duration) cubic-bezier(0.22, 1, 0.36, 1);
 }
 
 /* Research tabs: shadow once the bar is pinned */
