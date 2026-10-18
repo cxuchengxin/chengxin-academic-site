@@ -33,4 +33,5 @@ website:
 format:
   html:
     toc: false
+    page-layout: full
     css: assets/css/styles.css

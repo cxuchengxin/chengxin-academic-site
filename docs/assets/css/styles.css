@@ -9,7 +9,7 @@
   --bg: #fff;
   --accent: #1a5fb4;
 
-  --maxw: 1080px;
+  --maxw: 1200px;
 
   /* Icon sizing */
   --icon-hit: 40px;
@@ -40,6 +40,7 @@ html, body{ background: var(--bg); color: var(--text); }
 body{ font-size: 16px; line-height: 1.75; }
 
 .content, .content-wrap, main.content, .page-columns{
+  width: 100%;
   max-width: var(--maxw);
   margin: 0 auto;
   padding-left: 20px;
