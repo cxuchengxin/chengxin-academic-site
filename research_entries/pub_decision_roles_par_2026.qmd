@@ -5,7 +5,7 @@ Linking Decision Roles to Knowledge Utilization in U.S. State Governments: A Mix
 :::
 
 ::: {.pub-meta}
-[Working paper]{.pub-year .pub-wp} [with Shuping Wang; Yuan-Daniel Cheng]{.pub-authors}
+[2026]{.pub-year} <span class="pub-journal"><em>Public Administration Review</em></span> (Online first). [with Shuping Wang; Yuan (Daniel) Cheng]{.pub-authors}
 :::
 
 <details class="abstract">
@@ -16,5 +16,9 @@ The contemporary evidence-based policymaking movement argues that we need more s
 </div>
 
 </details>
+
+<div class="pub-actions">
+  <a class="btn-article" href="https://onlinelibrary.wiley.com/doi/10.1111/puar.70164" target="_blank" rel="noopener noreferrer">Article</a>
+</div>
 
 :::

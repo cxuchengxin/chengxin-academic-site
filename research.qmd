@@ -13,14 +13,14 @@ include-after-body:
 ### Working Projects
 
 {{< include research_entries/wp_public_pressure.qmd >}}
-{{< include research_entries/wp_forprofit_fundraisers.qmd >}}
 {{< include research_entries/wp_superfund_language.qmd >}}
 {{< include research_entries/wp_cost_of_service.qmd >}}
 {{< include research_entries/wp_inclusive_grantmaking_mn.qmd >}}
-{{< include research_entries/wp_decision_roles_knowledge.qmd >}}
 
 ### Publications
 
+{{< include research_entries/pub_decision_roles_par_2026.qmd >}}
+{{< include research_entries/pub_forprofit_fundraisers_nvsq_2026.qmd >}}
 {{< include research_entries/pub_gpt_annotation_psj_2025.qmd >}}
 {{< include research_entries/pub_info_cost_nvsq_2025.qmd >}}
 {{< include research_entries/pub_no_country_par_2025.qmd >}}
@@ -47,10 +47,10 @@ include-after-body:
 {{< include research_entries/wp_superfund_language.qmd >}}
 {{< include research_entries/wp_cost_of_service.qmd >}}
 {{< include research_entries/wp_inclusive_grantmaking_mn.qmd >}}
-{{< include research_entries/wp_decision_roles_knowledge.qmd >}}
 
 ### Publications
 
+{{< include research_entries/pub_decision_roles_par_2026.qmd >}}
 {{< include research_entries/pub_no_country_par_2025.qmd >}}
 {{< include research_entries/pub_conjoint_evidence_par_2024.qmd >}}
 {{< include research_entries/pub_ebp_state_par_2024.qmd >}}
@@ -60,12 +60,9 @@ include-after-body:
 
 ## Nonprofit Management
 
-### Working Projects
-
-{{< include research_entries/wp_forprofit_fundraisers.qmd >}}
-
 ### Publications
 
+{{< include research_entries/pub_forprofit_fundraisers_nvsq_2026.qmd >}}
 {{< include research_entries/pub_info_cost_nvsq_2025.qmd >}}
 {{< include research_entries/pub_moral_judgment_nml_2023.qmd >}}
 {{< include research_entries/pub_autonomy_interdependence_arpa_2021.qmd >}}
@@ -77,12 +74,9 @@ include-after-body:
 
 ## Method
 
-### Working Projects
-
-{{< include research_entries/wp_decision_roles_knowledge.qmd >}}
-
 ### Publications
 
+{{< include research_entries/pub_decision_roles_par_2026.qmd >}}
 {{< include research_entries/pub_gpt_annotation_psj_2025.qmd >}}
 {{< include research_entries/pub_destereotyping_ipmj_2023.qmd >}}
 {{< include research_entries/pub_evidential_value_jbpa_2021.qmd >}}

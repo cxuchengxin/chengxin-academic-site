@@ -5,7 +5,7 @@ Public Pressure Expands Policy Access for Black Constituents but Limits Substant
 :::
 
 ::: {.pub-meta}
-[Working paper]{.pub-year .pub-wp} [with Danyao Li; Yixin Liu; Huimin Zheng]{.pub-authors}
+[Working paper]{.pub-year .pub-wp} [with Danyao Li; Yixin Liu; Guimin Zheng]{.pub-authors}
 :::
 
 <details class="abstract">
